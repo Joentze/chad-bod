@@ -20,7 +20,7 @@ def get_faculty(page_start: int, page_end: int):
         data = response.json()
         hits = data["results"][0]["hits"]
         persons = [{"name": hit["name"].strip().lower(), "school":hit["school"].lower(),
-                    "phone":hit["phone"], "url":hit["url"]}for hit in hits]
+                    "phone":hit["phone"], "url":hit["url"],"email":hit["email"]}for hit in hits]
         all_faulty += persons
     return all_faulty
 
