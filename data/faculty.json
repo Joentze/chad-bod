@@ -1,0 +1,3502 @@
+{
+  "data": [
+    {
+      "name": "mohamed irshad abbas ali",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/mohamed-irshad-abbas-ali-6096"
+    },
+    {
+      "name": "vandana ramesh advani",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/vandana-ramesh-advani-2871"
+    },
+    {
+      "name": "hana alhadad",
+      "school": "school of social sciences",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/hana-alhadad-7246"
+    },
+    {
+      "name": "thomas allard",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/thomas-allard-6426"
+    },
+    {
+      "name": "jason grant allen",
+      "school": "yong pung how school of law",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/jason-grant-allen-6551"
+    },
+    {
+      "name": "farooq jamil alvi",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/farooq-jamil-alvi-2866"
+    },
+    {
+      "name": "madhav shrihari aney",
+      "school": "school of economics",
+      "phone": "+65 68280644",
+      "url": "https://faculty.smu.edu.sg/profile/madhav-shrihari-aney-976"
+    },
+    {
+      "name": "ang fui siong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ang-fui-siong-6006"
+    },
+    {
+      "name": "ang ser keng",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280284",
+      "url": "https://faculty.smu.edu.sg/profile/ang-ser-keng-6656"
+    },
+    {
+      "name": "ang sock tiang",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ang-sock-tiang-6331"
+    },
+    {
+      "name": "jolyn ang",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/jolyn-ang-6371"
+    },
+    {
+      "name": "marcus ang teck meng",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280703",
+      "url": "https://faculty.smu.edu.sg/profile/marcus-ang-teck-meng-6651"
+    },
+    {
+      "name": "au yang sian",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/au-yang-sian-6076"
+    },
+    {
+      "name": "buket avci",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085473",
+      "url": "https://faculty.smu.edu.sg/profile/buket-avci-1261"
+    },
+    {
+      "name": "jayesh avlani",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/jayesh-avlani-2801"
+    },
+    {
+      "name": "rajesh krishna balan",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280879",
+      "url": "https://faculty.smu.edu.sg/profile/rajesh-krishna-balan-591"
+    },
+    {
+      "name": "rafael j. barros",
+      "school": "school of computing and information systems",
+      "phone": "+65 68289675",
+      "url": "https://faculty.smu.edu.sg/profile/rafael-j-barros-436"
+    },
+    {
+      "name": "michael ramsay bashshur",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280732",
+      "url": "https://faculty.smu.edu.sg/profile/michael-ramsay-bashshur-2311"
+    },
+    {
+      "name": "ismail baydur",
+      "school": "school of economics",
+      "phone": "+65 68280095",
+      "url": "https://faculty.smu.edu.sg/profile/ismail-baydur-1386"
+    },
+    {
+      "name": "bedi pavneet singh",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/bedi-pavneet-singh-6226"
+    },
+    {
+      "name": "shantanu bhattacharya",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68087948",
+      "url": "https://faculty.smu.edu.sg/profile/shantanu-bhattacharya-2296"
+    },
+    {
+      "name": "devasheesh p. bhave",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085371",
+      "url": "https://faculty.smu.edu.sg/profile/devasheesh-p-bhave-2306"
+    },
+    {
+      "name": "bledow ronald",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085482",
+      "url": "https://faculty.smu.edu.sg/profile/bledow-ronald-2301"
+    },
+    {
+      "name": "ekkehart boehmer",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68087954",
+      "url": "https://faculty.smu.edu.sg/profile/ekkehart-boehmer-2291"
+    },
+    {
+      "name": "onur boyabatli",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280247",
+      "url": "https://faculty.smu.edu.sg/profile/onur-boyabatli-2276"
+    },
+    {
+      "name": "stephen bull",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280714",
+      "url": "https://faculty.smu.edu.sg/profile/stephen-bull-2286"
+    },
+    {
+      "name": "steven burik",
+      "school": "school of social sciences",
+      "phone": "+6568280866",
+      "url": "https://faculty.smu.edu.sg/profile/steven-burik-2281"
+    },
+    {
+      "name": "yixin cao",
+      "school": "school of computing and information systems",
+      "phone": "+6568264871",
+      "url": "https://faculty.smu.edu.sg/profile/yixin-cao-6241"
+    },
+    {
+      "name": "chan boh yee",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/chan-boh-yee-6126"
+    },
+    {
+      "name": "chan kay min",
+      "school": "lee kong chian school of business",
+      "phone": "+6568085372",
+      "url": "https://faculty.smu.edu.sg/profile/chan-kay-min-2251"
+    },
+    {
+      "name": "chan soon huat",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280762",
+      "url": "https://faculty.smu.edu.sg/profile/chan-soon-huat-2246"
+    },
+    {
+      "name": "chan wenjie",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/chan-wenjie-2496"
+    },
+    {
+      "name": "chan wing cheong",
+      "school": "yong pung how school of law",
+      "phone": "+65 68087979",
+      "url": "https://faculty.smu.edu.sg/profile/chan-wing-cheong-2266"
+    },
+    {
+      "name": "darius chan",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085444",
+      "url": "https://faculty.smu.edu.sg/profile/darius-chan-2271"
+    },
+    {
+      "name": "david chan",
+      "school": "school of social sciences",
+      "phone": "+65 68280300",
+      "url": "https://faculty.smu.edu.sg/profile/david-chan-2256"
+    },
+    {
+      "name": "gary chan kok yew",
+      "school": "yong pung how school of law",
+      "phone": "+65 68080712",
+      "url": "https://faculty.smu.edu.sg/profile/gary-chan-kok-yew-1206"
+    },
+    {
+      "name": "jason chan",
+      "school": "school of computing and information systems",
+      "phone": "+6568264915",
+      "url": "https://faculty.smu.edu.sg/profile/jason-chan-6511"
+    },
+    {
+      "name": "kyne aldrich chan zheng wei",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/kyne-aldrich-chan-zheng-wei-886"
+    },
+    {
+      "name": "luther chan",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/luther-chan-6871"
+    },
+    {
+      "name": "sandeep r. chandukala",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280659",
+      "url": "https://faculty.smu.edu.sg/profile/sandeep-r-chandukala-2261"
+    },
+    {
+      "name": "andy scott chang",
+      "school": "school of social sciences",
+      "phone": "+65 68280664",
+      "url": "https://faculty.smu.edu.sg/profile/andy-scott-chang-1001"
+    },
+    {
+      "name": "chang pao li",
+      "school": "school of economics",
+      "phone": "+65 68280830",
+      "url": "https://faculty.smu.edu.sg/profile/chang-pao-li-1201"
+    },
+    {
+      "name": "chang, hye sun",
+      "school": "school of accountancy",
+      "phone": "+65 68280079",
+      "url": "https://faculty.smu.edu.sg/profile/chang-hye-sun-681"
+    },
+    {
+      "name": "hannah h. chang",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280722",
+      "url": "https://faculty.smu.edu.sg/profile/hannah-h-chang-2236"
+    },
+    {
+      "name": "ashwin chari",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ashwin-chari-6621"
+    },
+    {
+      "name": "jonathan david chase",
+      "school": "college of integrative studies",
+      "phone": "+65 68264885",
+      "url": "https://faculty.smu.edu.sg/profile/jonathan-david-chase-6246"
+    },
+    {
+      "name": "shurojit chatterji",
+      "school": "school of economics",
+      "phone": "+65 68280314",
+      "url": "https://faculty.smu.edu.sg/profile/shurojit-chatterji-2241"
+    },
+    {
+      "name": "charles chen",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/charles-chen-871"
+    },
+    {
+      "name": "chen chih-ying",
+      "school": "school of accountancy",
+      "phone": "+65 68280987",
+      "url": "https://faculty.smu.edu.sg/profile/chen-chih-ying-861"
+    },
+    {
+      "name": "chen liang",
+      "school": "lee kong chian school of business",
+      "phone": "+6568289650",
+      "url": "https://faculty.smu.edu.sg/profile/chen-liang-7256"
+    },
+    {
+      "name": "chen siyuan",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280378",
+      "url": "https://faculty.smu.edu.sg/profile/chen-siyuan-1266"
+    },
+    {
+      "name": "chen xia",
+      "school": "school of accountancy",
+      "phone": "+65 68280615",
+      "url": "https://faculty.smu.edu.sg/profile/chen-xia-856"
+    },
+    {
+      "name": "don chen",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/don-chen-6216"
+    },
+    {
+      "name": "xin chen",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68264813",
+      "url": "https://faculty.smu.edu.sg/profile/xin-chen-1196"
+    },
+    {
+      "name": "cheng cheng",
+      "school": "school of social sciences",
+      "phone": "+65 68280296",
+      "url": "https://faculty.smu.edu.sg/profile/cheng-cheng-1421"
+    },
+    {
+      "name": "cheng chi-ying",
+      "school": "school of social sciences",
+      "phone": "+65 68280844",
+      "url": "https://faculty.smu.edu.sg/profile/cheng-chi-ying-2216"
+    },
+    {
+      "name": "cheng nam sang",
+      "school": "school of accountancy",
+      "phone": "+6568281910",
+      "url": "https://faculty.smu.edu.sg/profile/cheng-nam-sang-851"
+    },
+    {
+      "name": "cheng qiang",
+      "school": "school of accountancy",
+      "phone": "+65 68085337",
+      "url": "https://faculty.smu.edu.sg/profile/cheng-qiang-846"
+    },
+    {
+      "name": "cheng shih-fen",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280526",
+      "url": "https://faculty.smu.edu.sg/profile/cheng-shih-fen-366"
+    },
+    {
+      "name": "cheng yam san",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/cheng-yam-san-2796"
+    },
+    {
+      "name": "michelle cheong",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280269",
+      "url": "https://faculty.smu.edu.sg/profile/michelle-cheong-456"
+    },
+    {
+      "name": "warren b. chik",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280155",
+      "url": "https://faculty.smu.edu.sg/profile/warren-b-chik-2231"
+    },
+    {
+      "name": "andrew chin",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/andrew-chin-6106"
+    },
+    {
+      "name": "rosie ching",
+      "school": "school of economics",
+      "phone": "+65 68280587",
+      "url": "https://faculty.smu.edu.sg/profile/rosie-ching-2211"
+    },
+    {
+      "name": "chiraphol new chiyachantana",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280776",
+      "url": "https://faculty.smu.edu.sg/profile/chiraphol-new-chiyachantana-2221"
+    },
+    {
+      "name": "kelvin chng",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/kelvin-chng-6866"
+    },
+    {
+      "name": "kenny chng",
+      "school": "yong pung how school of law",
+      "phone": "+6568289582",
+      "url": "https://faculty.smu.edu.sg/profile/kenny-chng-6661"
+    },
+    {
+      "name": "cho, young jun",
+      "school": "school of accountancy",
+      "phone": "+65 68085232",
+      "url": "https://faculty.smu.edu.sg/profile/cho-young-jun-841"
+    },
+    {
+      "name": "andy choi",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/andy-choi-6876"
+    },
+    {
+      "name": "seema chokshi",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/seema-chokshi-6896"
+    },
+    {
+      "name": "adeline chong swee ling",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280523",
+      "url": "https://faculty.smu.edu.sg/profile/adeline-chong-swee-ling-2196"
+    },
+    {
+      "name": "mark chong",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280255",
+      "url": "https://faculty.smu.edu.sg/profile/mark-chong-2201"
+    },
+    {
+      "name": "trudi chong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/trudi-chong-7241"
+    },
+    {
+      "name": "chow wai fong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/chow-wai-fong-6346"
+    },
+    {
+      "name": "chow wai keong",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/chow-wai-keong-711"
+    },
+    {
+      "name": "winston chow",
+      "school": "college of integrative studies",
+      "phone": "+65 68261342",
+      "url": "https://faculty.smu.edu.sg/profile/winston-chow-2191"
+    },
+    {
+      "name": "chow hwee kwan",
+      "school": "school of economics",
+      "phone": "+65 68280868",
+      "url": "https://faculty.smu.edu.sg/profile/chow-hwee-kwan-966"
+    },
+    {
+      "name": "chua wan rong",
+      "school": "school of accountancy",
+      "phone": "+65 68289684",
+      "url": "https://faculty.smu.edu.sg/profile/chua-wan-rong-646"
+    },
+    {
+      "name": "roy chua",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68087945",
+      "url": "https://faculty.smu.edu.sg/profile/roy-chua-2206"
+    },
+    {
+      "name": "timothy clark",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280013",
+      "url": "https://faculty.smu.edu.sg/profile/timothy-clark-2171"
+    },
+    {
+      "name": "crama pascale",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280330",
+      "url": "https://faculty.smu.edu.sg/profile/crama-pascale-6666"
+    },
+    {
+      "name": "richard crowley",
+      "school": "school of accountancy",
+      "phone": "+6568087939",
+      "url": "https://faculty.smu.edu.sg/profile/richard-crowley-6671"
+    },
+    {
+      "name": "ilya cuypers",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280339",
+      "url": "https://faculty.smu.edu.sg/profile/ilya-cuypers-2176"
+    },
+    {
+      "name": "dai bing tian",
+      "school": "school of computing and information systems",
+      "phone": "+65 68289603",
+      "url": "https://faculty.smu.edu.sg/profile/dai-bing-tian-361"
+    },
+    {
+      "name": "pinar darendeli",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/pinar-darendeli-6161"
+    },
+    {
+      "name": "arnoud de meyer",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280180",
+      "url": "https://faculty.smu.edu.sg/profile/arnoud-de-meyer-2186"
+    },
+    {
+      "name": "bert de reyck",
+      "school": "lee kong chian school of business",
+      "phone": "+6568085122",
+      "url": "https://faculty.smu.edu.sg/profile/bert-de-reyck-5971"
+    },
+    {
+      "name": "maartje de visser",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085445",
+      "url": "https://faculty.smu.edu.sg/profile/maartje-de-visser-2161"
+    },
+    {
+      "name": "shyamala deenathayalan",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280420",
+      "url": "https://faculty.smu.edu.sg/profile/shyamala-deenathayalan-2151"
+    },
+    {
+      "name": "demeester lieven",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280729",
+      "url": "https://faculty.smu.edu.sg/profile/demeester-lieven-1186"
+    },
+    {
+      "name": "robert h deng",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280920",
+      "url": "https://faculty.smu.edu.sg/profile/robert-h-deng-891"
+    },
+    {
+      "name": "roxane desmicht",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/roxane-desmicht-6081"
+    },
+    {
+      "name": "sebastian dettman",
+      "school": "school of social sciences",
+      "phone": "+65 68280092",
+      "url": "https://faculty.smu.edu.sg/profile/sebastian-dettman-2156"
+    },
+    {
+      "name": "vinika devasar rao",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/vinika-devasar-rao-6066"
+    },
+    {
+      "name": "jorg dietzel",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/jorg-dietzel-5136"
+    },
+    {
+      "name": "fermin diez",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/fermin-diez-2706"
+    },
+    {
+      "name": "david ding",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280245",
+      "url": "https://faculty.smu.edu.sg/profile/david-ding-1021"
+    },
+    {
+      "name": "ding xuhua",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280683",
+      "url": "https://faculty.smu.edu.sg/profile/ding-xuhua-356"
+    },
+    {
+      "name": "john a donaldson",
+      "school": "school of social sciences",
+      "phone": "+65 68280295",
+      "url": "https://faculty.smu.edu.sg/profile/john-donaldson-2166"
+    },
+    {
+      "name": "maaike doyer",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/maaike-doyer-6376"
+    },
+    {
+      "name": "chris du plessis",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289655",
+      "url": "https://faculty.smu.edu.sg/profile/chris-du-plessis-1336"
+    },
+    {
+      "name": "dean dulay",
+      "school": "school of social sciences",
+      "phone": "+65 68280074",
+      "url": "https://faculty.smu.edu.sg/profile/dean-dulay-5571"
+    },
+    {
+      "name": "duran, randall",
+      "school": "school of computing and information systems",
+      "phone": "+65 68264812",
+      "url": "https://faculty.smu.edu.sg/profile/duran-randall-496"
+    },
+    {
+      "name": "subhangshu dutt",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/subhangshu-dutt-2631"
+    },
+    {
+      "name": "benjamin ee",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/benjamin-ee-7216"
+    },
+    {
+      "name": "benjamin ee kum chuin",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/benjamin-ee-kum-chuin-706"
+    },
+    {
+      "name": "kimin eom",
+      "school": "school of social sciences",
+      "phone": "+6568085459",
+      "url": "https://faculty.smu.edu.sg/profile/kimin-eom-2126"
+    },
+    {
+      "name": "er jwee ping",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/er-jwee-ping-2656"
+    },
+    {
+      "name": "gokhan ertug",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280338",
+      "url": "https://faculty.smu.edu.sg/profile/gokhan-ertug-2131"
+    },
+    {
+      "name": "darlene machell espena",
+      "school": "college of integrative studies",
+      "phone": "+65 68280611",
+      "url": "https://faculty.smu.edu.sg/profile/darlene-machell-espena-2136"
+    },
+    {
+      "name": "grace fan",
+      "school": "school of accountancy",
+      "phone": "+65 68280554",
+      "url": "https://faculty.smu.edu.sg/profile/grace-fan-696"
+    },
+    {
+      "name": "terence fan",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280708",
+      "url": "https://faculty.smu.edu.sg/profile/terence-fan-2146"
+    },
+    {
+      "name": "fang bingxu",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/fang-bingxu-5936"
+    },
+    {
+      "name": "fang xin",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68087950",
+      "url": "https://faculty.smu.edu.sg/profile/fang-xin-2141"
+    },
+    {
+      "name": "fang yuan",
+      "school": "school of computing and information systems",
+      "phone": "+6568085150",
+      "url": "https://faculty.smu.edu.sg/profile/fang-yuan-351"
+    },
+    {
+      "name": "shereen fatimah",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289656",
+      "url": "https://faculty.smu.edu.sg/profile/shereen-fatimah-1326"
+    },
+    {
+      "name": "feng guiyun",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280242",
+      "url": "https://faculty.smu.edu.sg/profile/feng-guiyun-1311"
+    },
+    {
+      "name": "dave fernandez",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289693",
+      "url": "https://faculty.smu.edu.sg/profile/dave-fernandez-951"
+    },
+    {
+      "name": "eric fesselmeyer",
+      "school": "college of integrative studies",
+      "phone": "+65 68264940",
+      "url": "https://faculty.smu.edu.sg/profile/eric-fesselmeyer-6431"
+    },
+    {
+      "name": "mark findlay",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280667",
+      "url": "https://faculty.smu.edu.sg/profile/mark-findlay-2341"
+    },
+    {
+      "name": "foo see liang",
+      "school": "school of accountancy",
+      "phone": "+65 68280966",
+      "url": "https://faculty.smu.edu.sg/profile/foo-see-liang-836"
+    },
+    {
+      "name": "gerald foong",
+      "school": "school of economics",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/gerald-foong-5916"
+    },
+    {
+      "name": "colm fox",
+      "school": "school of social sciences",
+      "phone": "+65 68280849",
+      "url": "https://faculty.smu.edu.sg/profile/colm-fox-1406"
+    },
+    {
+      "name": "clarence fu",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/clarence-fu-6321"
+    },
+    {
+      "name": "fu fangjian",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280244",
+      "url": "https://faculty.smu.edu.sg/profile/fu-fangjian-1176"
+    },
+    {
+      "name": "tomoki fujii",
+      "school": "school of economics",
+      "phone": "+65 68280279",
+      "url": "https://faculty.smu.edu.sg/profile/tomoki-fujii-2116"
+    },
+    {
+      "name": "fwa hua leong",
+      "school": "school of computing and information systems",
+      "phone": "+6568264870",
+      "url": "https://faculty.smu.edu.sg/profile/fwa-hua-leong-6251"
+    },
+    {
+      "name": "benjamin gan",
+      "school": "school of computing and information systems",
+      "phone": "+6568280267",
+      "url": "https://faculty.smu.edu.sg/profile/benjamin-gan-506"
+    },
+    {
+      "name": "gan chui goh",
+      "school": "school of economics",
+      "phone": "+65 68281986",
+      "url": "https://faculty.smu.edu.sg/profile/gan-chui-goh-2401"
+    },
+    {
+      "name": "gan yoke wah, karen",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280147",
+      "url": "https://faculty.smu.edu.sg/profile/gan-yoke-wah-karen-1171"
+    },
+    {
+      "name": "michael gan tin hua",
+      "school": "school of accountancy",
+      "phone": "+6568280169",
+      "url": "https://faculty.smu.edu.sg/profile/michael-gan-tin-hua-2466"
+    },
+    {
+      "name": "debin gao",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280969",
+      "url": "https://faculty.smu.edu.sg/profile/debin-gao-346"
+    },
+    {
+      "name": "gao yang",
+      "school": "school of computing and information systems",
+      "phone": "+6568264833",
+      "url": "https://faculty.smu.edu.sg/profile/gao-yang-5581"
+    },
+    {
+      "name": "gao, yini",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289658",
+      "url": "https://faculty.smu.edu.sg/profile/gao-yini-2111"
+    },
+    {
+      "name": "henry gao",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280520",
+      "url": "https://faculty.smu.edu.sg/profile/henry-gao-2121"
+    },
+    {
+      "name": "wei gao",
+      "school": "school of computing and information systems",
+      "phone": "+65 68261369",
+      "url": "https://faculty.smu.edu.sg/profile/wei-gao-526"
+    },
+    {
+      "name": "geng xuesong",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280514",
+      "url": "https://faculty.smu.edu.sg/profile/geng-xuesong-2106"
+    },
+    {
+      "name": "michael genkin",
+      "school": "school of social sciences",
+      "phone": "+65 68280840",
+      "url": "https://faculty.smu.edu.sg/profile/michael-genkin-1391"
+    },
+    {
+      "name": "gerard george",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/gerard-george-2091"
+    },
+    {
+      "name": "adam gerard",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/adam-gerard-6381"
+    },
+    {
+      "name": "aurobindo ghosh",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280863",
+      "url": "https://faculty.smu.edu.sg/profile/aurobindo-ghosh-2096"
+    },
+    {
+      "name": "clarence goh",
+      "school": "school of accountancy",
+      "phone": "+6568281931",
+      "url": "https://faculty.smu.edu.sg/profile/clarence-goh-6681"
+    },
+    {
+      "name": "goh beng wee",
+      "school": "school of accountancy",
+      "phone": "+65 68280985",
+      "url": "https://faculty.smu.edu.sg/profile/goh-beng-wee-826"
+    },
+    {
+      "name": "goh jing rong",
+      "school": "school of economics",
+      "phone": "+6568264850",
+      "url": "https://faculty.smu.edu.sg/profile/goh-jing-rong-6436"
+    },
+    {
+      "name": "goh shao hung",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/goh-shao-hung-6356"
+    },
+    {
+      "name": "goh siong thye",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/goh-siong-thye-6611"
+    },
+    {
+      "name": "goh yihan, sc",
+      "school": "yong pung how school of law",
+      "phone": "+65 68087964",
+      "url": "https://faculty.smu.edu.sg/profile/goh-yihan-sc-1036"
+    },
+    {
+      "name": "jeremy goh",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280739",
+      "url": "https://faculty.smu.edu.sg/profile/jeremy-goh-2101"
+    },
+    {
+      "name": "kenneth goh",
+      "school": "lee kong chian school of business",
+      "phone": "+6568289660",
+      "url": "https://faculty.smu.edu.sg/profile/kenneth-goh-1026"
+    },
+    {
+      "name": "ma kheng min",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280406",
+      "url": "https://faculty.smu.edu.sg/profile/ma-kheng-min-1166"
+    },
+    {
+      "name": "serena goh",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/serena-goh-6881"
+    },
+    {
+      "name": "victor goh",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/victor-goh-2651"
+    },
+    {
+      "name": "gomulya, david",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289694",
+      "url": "https://faculty.smu.edu.sg/profile/gomulya-david-2081"
+    },
+    {
+      "name": "swapna gottipati",
+      "school": "school of computing and information systems",
+      "phone": "+65 68087936",
+      "url": "https://faculty.smu.edu.sg/profile/swapna-gottipati-426"
+    },
+    {
+      "name": "joshua greene",
+      "school": "school of economics",
+      "phone": "+65 68280873",
+      "url": "https://faculty.smu.edu.sg/profile/joshua-greene-3351"
+    },
+    {
+      "name": "gary j. greguras",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280747",
+      "url": "https://faculty.smu.edu.sg/profile/gary-j-greguras-2076"
+    },
+    {
+      "name": "paul robert griffin",
+      "school": "school of computing and information systems",
+      "phone": "+65 68289587",
+      "url": "https://faculty.smu.edu.sg/profile/paul-robert-griffin-451"
+    },
+    {
+      "name": "aldy gunawan",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280937",
+      "url": "https://faculty.smu.edu.sg/profile/aldy-gunawan-386"
+    },
+    {
+      "name": "zhiling guo",
+      "school": "school of computing and information systems",
+      "phone": "+65 68085438",
+      "url": "https://faculty.smu.edu.sg/profile/zhiling-guo-401"
+    },
+    {
+      "name": "aurelio gurrea martinez",
+      "school": "yong pung how school of law",
+      "phone": "+6568085160",
+      "url": "https://faculty.smu.edu.sg/profile/aurelio-gurrea-martinez-2086"
+    },
+    {
+      "name": "hammerton matthew",
+      "school": "school of social sciences",
+      "phone": "+65 68280627",
+      "url": "https://faculty.smu.edu.sg/profile/hammerton-matthew-2071"
+    },
+    {
+      "name": "jin k han",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280253",
+      "url": "https://faculty.smu.edu.sg/profile/jin-k-han-2066"
+    },
+    {
+      "name": "hara, kotaro",
+      "school": "school of computing and information systems",
+      "phone": "+65 68289691",
+      "url": "https://faculty.smu.edu.sg/profile/hara-kotaro-321"
+    },
+    {
+      "name": "kirti harnal",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/kirti-harnal-6581"
+    },
+    {
+      "name": "andree hartanto",
+      "school": "school of social sciences",
+      "phone": "+65 68281901",
+      "url": "https://faculty.smu.edu.sg/profile/andree-hartanto-2051"
+    },
+    {
+      "name": "he shengfeng",
+      "school": "school of computing and information systems",
+      "phone": "+6568264973",
+      "url": "https://faculty.smu.edu.sg/profile/he-shengfeng-7261"
+    },
+    {
+      "name": "christine dunn henderson",
+      "school": "college of integrative studies",
+      "phone": "+65 68261353",
+      "url": "https://faculty.smu.edu.sg/profile/christine-dunn-henderson-991"
+    },
+    {
+      "name": "charmayne highfield",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/charmayne-highfield-866"
+    },
+    {
+      "name": "alan ho",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/alan-ho-1476"
+    },
+    {
+      "name": "ho jack yong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ho-jack-yong-2861"
+    },
+    {
+      "name": "ho kong weng",
+      "school": "school of economics",
+      "phone": "+65 68087955",
+      "url": "https://faculty.smu.edu.sg/profile/ho-kong-weng-2056"
+    },
+    {
+      "name": "ho sheng chao",
+      "school": "school of economics",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ho-sheng-chao-2421"
+    },
+    {
+      "name": "christine ho",
+      "school": "school of economics",
+      "phone": "+65 68085173",
+      "url": "https://faculty.smu.edu.sg/profile/christine-ho-2061"
+    },
+    {
+      "name": "hoe siu loon",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280801",
+      "url": "https://faculty.smu.edu.sg/profile/hoe-siu-loon-396"
+    },
+    {
+      "name": "hoe su fern",
+      "school": "school of social sciences",
+      "phone": "+65 68280841",
+      "url": "https://faculty.smu.edu.sg/profile/hoe-su-fern-2046"
+    },
+    {
+      "name": "steven hoi",
+      "school": "school of computing and information systems",
+      "phone": "+6568087949",
+      "url": "https://faculty.smu.edu.sg/profile/steven-hoi-6686"
+    },
+    {
+      "name": "hong bei hailey",
+      "school": "school of economics",
+      "phone": "+6568280069",
+      "url": "https://faculty.smu.edu.sg/profile/hong-bei-hailey-6691"
+    },
+    {
+      "name": "jack hong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/jack-hong-6011"
+    },
+    {
+      "name": "bryce hool",
+      "school": "school of economics",
+      "phone": "+6568280052",
+      "url": "https://faculty.smu.edu.sg/profile/bryce-hool-5826"
+    },
+    {
+      "name": "hoon hian teck",
+      "school": "school of economics",
+      "phone": "+65 68280707",
+      "url": "https://faculty.smu.edu.sg/profile/hoon-hian-teck-2036"
+    },
+    {
+      "name": "pasha l. hsieh",
+      "school": "yong pung how school of law",
+      "phone": "+6568280345",
+      "url": "https://faculty.smu.edu.sg/profile/pasha-l-hsieh-6696"
+    },
+    {
+      "name": "locknie hsu",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280572",
+      "url": "https://faculty.smu.edu.sg/profile/locknie-hsu-1161"
+    },
+    {
+      "name": "hu jianfeng",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085477",
+      "url": "https://faculty.smu.edu.sg/profile/hu-jianfeng-2021"
+    },
+    {
+      "name": "hu nan",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/hu-nan-7196"
+    },
+    {
+      "name": "huang dashan",
+      "school": "lee kong chian school of business",
+      "phone": "+6568085476",
+      "url": "https://faculty.smu.edu.sg/profile/huang-dashan-6701"
+    },
+    {
+      "name": "huang fali",
+      "school": "school of economics",
+      "phone": "+65 68280859",
+      "url": "https://faculty.smu.edu.sg/profile/huang-fali-2001"
+    },
+    {
+      "name": "shirley huang junying",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280927",
+      "url": "https://faculty.smu.edu.sg/profile/shirley-huang-junying-2016"
+    },
+    {
+      "name": "sterling huang",
+      "school": "school of accountancy",
+      "phone": "+6568087929",
+      "url": "https://faculty.smu.edu.sg/profile/sterling-huang-6706"
+    },
+    {
+      "name": "howard hunter",
+      "school": "yong pung how school of law",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/howard-hunter-2501"
+    },
+    {
+      "name": "huynh bao tan",
+      "school": "school of economics",
+      "phone": "+6568289640",
+      "url": "https://faculty.smu.edu.sg/profile/huynh-bao-tan-6711"
+    },
+    {
+      "name": "nicolas l. jacquet",
+      "school": "school of economics",
+      "phone": "+65 68280293",
+      "url": "https://faculty.smu.edu.sg/profile/nicolas-l-jacquet-2006"
+    },
+    {
+      "name": "muthu jagannath",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/muthu-jagannath-2781"
+    },
+    {
+      "name": "amanda jakobsson",
+      "school": "school of economics",
+      "phone": "+65 68085467",
+      "url": "https://faculty.smu.edu.sg/profile/amanda-jakobsson-1381"
+    },
+    {
+      "name": "aljoscha janssen",
+      "school": "school of economics",
+      "phone": "+65 68261350",
+      "url": "https://faculty.smu.edu.sg/profile/aljoscha-janssen-1376"
+    },
+    {
+      "name": "jiang lingxiao",
+      "school": "school of computing and information systems",
+      "phone": "+65 68085113",
+      "url": "https://faculty.smu.edu.sg/profile/jiang-lingxiao-896"
+    },
+    {
+      "name": "jing jiang",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280785",
+      "url": "https://faculty.smu.edu.sg/profile/jing-jiang-636"
+    },
+    {
+      "name": "prasart jongjaroenkamol",
+      "school": "school of accountancy",
+      "phone": "+65 68289649",
+      "url": "https://faculty.smu.edu.sg/profile/prasart-jongjaroenkamol-816"
+    },
+    {
+      "name": "joshi, devin",
+      "school": "school of social sciences",
+      "phone": "+65 68280970",
+      "url": "https://faculty.smu.edu.sg/profile/joshi-devin-1991"
+    },
+    {
+      "name": "atsushi kajii",
+      "school": "school of economics",
+      "phone": "+65 68280888",
+      "url": "https://faculty.smu.edu.sg/profile/atsushi-kajii-2426"
+    },
+    {
+      "name": "kam tin seong",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280932",
+      "url": "https://faculty.smu.edu.sg/profile/kam-tin-seong-486"
+    },
+    {
+      "name": "kan siew ning",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/kan-siew-ning-6231"
+    },
+    {
+      "name": "kan hwa heng",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/kan-hwa-heng-6901"
+    },
+    {
+      "name": "kan siew ning",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/kan-siew-ning-1471"
+    },
+    {
+      "name": "thivya kandappu",
+      "school": "school of computing and information systems",
+      "phone": "+65 68085446",
+      "url": "https://faculty.smu.edu.sg/profile/thivya-kandappu-541"
+    },
+    {
+      "name": "josephine kang",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/josephine-kang-6391"
+    },
+    {
+      "name": "kannan karthikeyan",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/kannan-karthikeyan-5866"
+    },
+    {
+      "name": "hulya karaman",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280897",
+      "url": "https://faculty.smu.edu.sg/profile/hulya-karaman-1321"
+    },
+    {
+      "name": "robert j. kauffman",
+      "school": "school of computing and information systems",
+      "phone": "+6568280929",
+      "url": "https://faculty.smu.edu.sg/profile/robert-j-kauffman-2351"
+    },
+    {
+      "name": "ke jinghao",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ke-jinghao-6146"
+    },
+    {
+      "name": "ke ping fan",
+      "school": "school of computing and information systems",
+      "phone": "+65 68261346",
+      "url": "https://faculty.smu.edu.sg/profile/ke-ping-fan-481"
+    },
+    {
+      "name": "khoo teng aun",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/khoo-teng-aun-656"
+    },
+    {
+      "name": "shuna khoo",
+      "school": "school of social sciences",
+      "phone": "+65 68280845",
+      "url": "https://faculty.smu.edu.sg/profile/shuna-khoo-6641"
+    },
+    {
+      "name": "kim junghan",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289653",
+      "url": "https://faculty.smu.edu.sg/profile/kim-junghan-1301"
+    },
+    {
+      "name": "kim seonghoon",
+      "school": "school of economics",
+      "phone": "+65 68085465",
+      "url": "https://faculty.smu.edu.sg/profile/kim-seonghoon-1156"
+    },
+    {
+      "name": "kim, jungbae",
+      "school": "school of accountancy",
+      "phone": "+65 68280628",
+      "url": "https://faculty.smu.edu.sg/profile/kim-jungbae-666"
+    },
+    {
+      "name": "andrew koh",
+      "school": "college of integrative studies",
+      "phone": "+65 68264934",
+      "url": "https://faculty.smu.edu.sg/profile/andrew-koh-6441"
+    },
+    {
+      "name": "annie koh",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280216",
+      "url": "https://faculty.smu.edu.sg/profile/annie-koh-1146"
+    },
+    {
+      "name": "benedict koh",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280716",
+      "url": "https://faculty.smu.edu.sg/profile/benedict-koh-1971"
+    },
+    {
+      "name": "brandon koh",
+      "school": "school of social sciences",
+      "phone": "+65 68280845",
+      "url": "https://faculty.smu.edu.sg/profile/brandon-koh-3646"
+    },
+    {
+      "name": "francis koh",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280719",
+      "url": "https://faculty.smu.edu.sg/profile/francis-koh-1136"
+    },
+    {
+      "name": "koh chuan leong",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/koh-chuan-leong-2361"
+    },
+    {
+      "name": "koh hock tee",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/koh-hock-tee-6186"
+    },
+    {
+      "name": "koh niak wu",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/koh-niak-wu-2681"
+    },
+    {
+      "name": "koh wee leng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/koh-wee-leng-6111"
+    },
+    {
+      "name": "pearlie koh",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280259",
+      "url": "https://faculty.smu.edu.sg/profile/pearlie-koh-1966"
+    },
+    {
+      "name": "vivien koh",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/vivien-koh-6191"
+    },
+    {
+      "name": "derrick kon",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/derrick-kon-7221"
+    },
+    {
+      "name": "lily kong",
+      "school": "school of social sciences",
+      "phone": "+65 68280181",
+      "url": "https://faculty.smu.edu.sg/profile/lily-kong-1956"
+    },
+    {
+      "name": "reddi kotha",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280401",
+      "url": "https://faculty.smu.edu.sg/profile/reddi-kotha-1961"
+    },
+    {
+      "name": "sumathi krishna",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/sumathi-krishna-2851"
+    },
+    {
+      "name": "chandran kukathas",
+      "school": "school of social sciences",
+      "phone": "+6568281929",
+      "url": "https://faculty.smu.edu.sg/profile/chandran-kukathas-1946"
+    },
+    {
+      "name": "akshat kumar",
+      "school": "school of computing and information systems",
+      "phone": "+65 68087914",
+      "url": "https://faculty.smu.edu.sg/profile/akshat-kumar-381"
+    },
+    {
+      "name": "amit kumar",
+      "school": "lee kong chian school of business",
+      "phone": "+6568264920",
+      "url": "https://faculty.smu.edu.sg/profile/amit-kumar-6446"
+    },
+    {
+      "name": "nirmalya kumar",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280570",
+      "url": "https://faculty.smu.edu.sg/profile/nirmalya-kumar-1951"
+    },
+    {
+      "name": "rajah kumar",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/rajah-kumar-2626"
+    },
+    {
+      "name": "takashi kunimoto",
+      "school": "school of economics",
+      "phone": "+65 68289558",
+      "url": "https://faculty.smu.edu.sg/profile/takashi-kunimoto-1941"
+    },
+    {
+      "name": "yuanto kusnadi",
+      "school": "school of accountancy",
+      "phone": "+6568085449",
+      "url": "https://faculty.smu.edu.sg/profile/yuanto-kusnadi-6721"
+    },
+    {
+      "name": "kwong koon shing",
+      "school": "school of economics",
+      "phone": "+65 68280834",
+      "url": "https://faculty.smu.edu.sg/profile/kwong-koon-shing-1936"
+    },
+    {
+      "name": "lam san ling",
+      "school": "school of economics",
+      "phone": "+65 68281986",
+      "url": "https://faculty.smu.edu.sg/profile/lam-san-ling-2381"
+    },
+    {
+      "name": "sean lam",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/sean-lam-6166"
+    },
+    {
+      "name": "massimiliano landi",
+      "school": "school of economics",
+      "phone": "+65 68280872",
+      "url": "https://faculty.smu.edu.sg/profile/massimiliano-landi-1931"
+    },
+    {
+      "name": "ivy lau",
+      "school": "school of social sciences",
+      "phone": "+65 68280839",
+      "url": "https://faculty.smu.edu.sg/profile/ivy-lau-1926"
+    },
+    {
+      "name": "lau hoong chuin",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280229",
+      "url": "https://faculty.smu.edu.sg/profile/lau-hoong-chuin-631"
+    },
+    {
+      "name": "lau kwan ho",
+      "school": "yong pung how school of law",
+      "phone": "+6568085124",
+      "url": "https://faculty.smu.edu.sg/profile/lau-kwan-ho-1141"
+    },
+    {
+      "name": "lau yi meng",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lau-yi-meng-6451"
+    },
+    {
+      "name": "hady w. lauw",
+      "school": "school of computing and information systems",
+      "phone": "+65 68085277",
+      "url": "https://faculty.smu.edu.sg/profile/hady-w-lauw-341"
+    },
+    {
+      "name": "antoine ledent",
+      "school": "school of computing and information systems",
+      "phone": "+6568264914",
+      "url": "https://faculty.smu.edu.sg/profile/antoine-ledent-6456"
+    },
+    {
+      "name": "andrew lee",
+      "school": "school of accountancy",
+      "phone": "+6568280612",
+      "url": "https://faculty.smu.edu.sg/profile/andrew-lee-811"
+    },
+    {
+      "name": "benjamin lee",
+      "school": "school of accountancy",
+      "phone": "+6568085440",
+      "url": "https://faculty.smu.edu.sg/profile/benjamin-lee-6726"
+    },
+    {
+      "name": "gea m. lee",
+      "school": "school of economics",
+      "phone": "+65 68280857",
+      "url": "https://faculty.smu.edu.sg/profile/gea-m-lee-1916"
+    },
+    {
+      "name": "iona hyojung lee",
+      "school": "school of economics",
+      "phone": "+6568087942",
+      "url": "https://faculty.smu.edu.sg/profile/iona-hyojung-lee-1911"
+    },
+    {
+      "name": "jimmy lee",
+      "school": "school of accountancy",
+      "phone": "+65 68085234",
+      "url": "https://faculty.smu.edu.sg/profile/jimmy-lee-801"
+    },
+    {
+      "name": "jungho lee",
+      "school": "school of economics",
+      "phone": "+65 68280086",
+      "url": "https://faculty.smu.edu.sg/profile/jungho-lee-1371"
+    },
+    {
+      "name": "lee boon chuan",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lee-boon-chuan-6156"
+    },
+    {
+      "name": "lee huey woon",
+      "school": "school of social sciences",
+      "phone": "+65 68280845",
+      "url": "https://faculty.smu.edu.sg/profile/lee-huey-woon-3721"
+    },
+    {
+      "name": "lee pey woan",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280374",
+      "url": "https://faculty.smu.edu.sg/profile/lee-pey-woan-1451"
+    },
+    {
+      "name": "lee seulki",
+      "school": "school of social sciences",
+      "phone": "+65 68085461",
+      "url": "https://faculty.smu.edu.sg/profile/lee-seulki-1491"
+    },
+    {
+      "name": "lee yeow leong",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280906",
+      "url": "https://faculty.smu.edu.sg/profile/lee-yeow-leong-626"
+    },
+    {
+      "name": "lee, min",
+      "school": "school of computing and information systems",
+      "phone": "+6568264863",
+      "url": "https://faculty.smu.edu.sg/profile/lee-min-6256"
+    },
+    {
+      "name": "lee, yun",
+      "school": "school of accountancy",
+      "phone": "+65 68280080",
+      "url": "https://faculty.smu.edu.sg/profile/lee-yun-676"
+    },
+    {
+      "name": "leonard lee",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/leonard-lee-6061"
+    },
+    {
+      "name": "michelle p lee",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280395",
+      "url": "https://faculty.smu.edu.sg/profile/michelle-p-lee-1921"
+    },
+    {
+      "name": "narae lee",
+      "school": "lee kong chian school of business",
+      "phone": "+6568264918",
+      "url": "https://faculty.smu.edu.sg/profile/narae-lee-7336"
+    },
+    {
+      "name": "narae lee",
+      "school": "lee kong chian school of business",
+      "phone": "+6568264918",
+      "url": "https://faculty.smu.edu.sg/profile/narae-lee-6461"
+    },
+    {
+      "name": "angela leung",
+      "school": "school of social sciences",
+      "phone": "+6568280961",
+      "url": "https://faculty.smu.edu.sg/profile/angela-leung-1886"
+    },
+    {
+      "name": "denis leung",
+      "school": "school of economics",
+      "phone": "+65 68280396",
+      "url": "https://faculty.smu.edu.sg/profile/denis-leung-1881"
+    },
+    {
+      "name": "fred leung",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/fred-leung-6091"
+    },
+    {
+      "name": "li jia",
+      "school": "school of economics",
+      "phone": "+65 68280890",
+      "url": "https://faculty.smu.edu.sg/profile/li-jia-1046"
+    },
+    {
+      "name": "li jiangtao",
+      "school": "school of economics",
+      "phone": "+6568261351",
+      "url": "https://faculty.smu.edu.sg/profile/li-jiangtao-1891"
+    },
+    {
+      "name": "li jing",
+      "school": "school of economics",
+      "phone": "+65 68085454",
+      "url": "https://faculty.smu.edu.sg/profile/li-jing-1906"
+    },
+    {
+      "name": "li linyi",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68264814",
+      "url": "https://faculty.smu.edu.sg/profile/li-linyi-1131"
+    },
+    {
+      "name": "li yuchen",
+      "school": "school of computing and information systems",
+      "phone": "+65 68289614",
+      "url": "https://faculty.smu.edu.sg/profile/li-yuchen-621"
+    },
+    {
+      "name": "norman li",
+      "school": "school of social sciences",
+      "phone": "+65 68280864",
+      "url": "https://faculty.smu.edu.sg/profile/norman-li-1896"
+    },
+    {
+      "name": "weikai li",
+      "school": "lee kong chian school of business",
+      "phone": "+6568289651",
+      "url": "https://faculty.smu.edu.sg/profile/weikai-li-6731"
+    },
+    {
+      "name": "hao liang",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280662",
+      "url": "https://faculty.smu.edu.sg/profile/hao-liang-981"
+    },
+    {
+      "name": "liao lizi",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/liao-lizi-6261"
+    },
+    {
+      "name": "lievens, filip",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289695",
+      "url": "https://faculty.smu.edu.sg/profile/lievens-filip-1871"
+    },
+    {
+      "name": "liew sing loon",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/liew-sing-loon-2671"
+    },
+    {
+      "name": "alwyn lim",
+      "school": "school of social sciences",
+      "phone": "+65 68280871",
+      "url": "https://faculty.smu.edu.sg/profile/alwyn-lim-1866"
+    },
+    {
+      "name": "elvin lim",
+      "school": "college of integrative studies",
+      "phone": "+65 68280766",
+      "url": "https://faculty.smu.edu.sg/profile/elvin-lim-1861"
+    },
+    {
+      "name": "lim chee yeow",
+      "school": "school of accountancy",
+      "phone": "+65 68281997",
+      "url": "https://faculty.smu.edu.sg/profile/lim-chee-yeow-791"
+    },
+    {
+      "name": "lim ee peng",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280781",
+      "url": "https://faculty.smu.edu.sg/profile/lim-ee-peng-616"
+    },
+    {
+      "name": "lim how khang",
+      "school": "yong pung how school of law",
+      "phone": "+6568280421",
+      "url": "https://faculty.smu.edu.sg/profile/lim-how-khang-6736"
+    },
+    {
+      "name": "lim kian guan",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280828",
+      "url": "https://faculty.smu.edu.sg/profile/lim-kian-guan-1011"
+    },
+    {
+      "name": "lim leon gim",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lim-leon-gim-6596"
+    },
+    {
+      "name": "lim soo ping",
+      "school": "school of accountancy",
+      "phone": "+65 68280103",
+      "url": "https://faculty.smu.edu.sg/profile/lim-soo-ping-2446"
+    },
+    {
+      "name": "lim yi hao",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lim-yi-hao-6521"
+    },
+    {
+      "name": "lim yun fong",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280774",
+      "url": "https://faculty.smu.edu.sg/profile/lim-yun-fong-1876"
+    },
+    {
+      "name": "michelle lim",
+      "school": "yong pung how school of law",
+      "phone": "+65 68264937",
+      "url": "https://faculty.smu.edu.sg/profile/michelle-lim-6466"
+    },
+    {
+      "name": "paul lim",
+      "school": "lee kong chian school of business",
+      "phone": "+6568087968",
+      "url": "https://faculty.smu.edu.sg/profile/paul-lim-1856"
+    },
+    {
+      "name": "phang sock yong",
+      "school": "school of economics",
+      "phone": "+65 68280368",
+      "url": "https://faculty.smu.edu.sg/profile/phang-sock-yong-1481"
+    },
+    {
+      "name": "serena lim",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/serena-lim-2841"
+    },
+    {
+      "name": "sun sun lim",
+      "school": "college of integrative studies",
+      "phone": "+65 68264960",
+      "url": "https://faculty.smu.edu.sg/profile/sun-sun-lim-6861"
+    },
+    {
+      "name": "gwendoline lim",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/gwendoline-lim-2846"
+    },
+    {
+      "name": "an-ping lin",
+      "school": "school of accountancy",
+      "phone": "+6568280081",
+      "url": "https://faculty.smu.edu.sg/profile/ping-lin-6741"
+    },
+    {
+      "name": "daniel lin",
+      "school": "school of computing and information systems",
+      "phone": "+65 68261345",
+      "url": "https://faculty.smu.edu.sg/profile/daniel-lin-336"
+    },
+    {
+      "name": "lin pengkai",
+      "school": "school of accountancy",
+      "phone": "+6568264837",
+      "url": "https://faculty.smu.edu.sg/profile/lin-pengkai-5831"
+    },
+    {
+      "name": "liu kung-chung",
+      "school": "yong pung how school of law",
+      "phone": "+65 68281923",
+      "url": "https://faculty.smu.edu.sg/profile/liu-kung-chung-1221"
+    },
+    {
+      "name": "liu nengye",
+      "school": "yong pung how school of law",
+      "phone": "+6568264931",
+      "url": "https://faculty.smu.edu.sg/profile/liu-nengye-6506"
+    },
+    {
+      "name": "liu peng",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68264917",
+      "url": "https://faculty.smu.edu.sg/profile/liu-peng-6471"
+    },
+    {
+      "name": "liu shew fan",
+      "school": "school of economics",
+      "phone": "+65 68289592",
+      "url": "https://faculty.smu.edu.sg/profile/liu-shew-fan-1836"
+    },
+    {
+      "name": "nicholas liu",
+      "school": "yong pung how school of law",
+      "phone": "+6568289672",
+      "url": "https://faculty.smu.edu.sg/profile/nicholas-liu-6746"
+    },
+    {
+      "name": "david llewelyn",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085177",
+      "url": "https://faculty.smu.edu.sg/profile/david-llewelyn-1851"
+    },
+    {
+      "name": "david lo",
+      "school": "school of computing and information systems",
+      "phone": "+6568280599",
+      "url": "https://faculty.smu.edu.sg/profile/david-lo-901"
+    },
+    {
+      "name": "lo siaw ling",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280287",
+      "url": "https://faculty.smu.edu.sg/profile/lo-siaw-ling-466"
+    },
+    {
+      "name": "loh wei ting",
+      "school": "school of accountancy",
+      "phone": "+65 68280543",
+      "url": "https://faculty.smu.edu.sg/profile/loh-wei-ting-2526"
+    },
+    {
+      "name": "roger loh",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280243",
+      "url": "https://faculty.smu.edu.sg/profile/roger-loh-1846"
+    },
+    {
+      "name": "tracy loh",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280757",
+      "url": "https://faculty.smu.edu.sg/profile/tracy-loh-1816"
+    },
+    {
+      "name": "lok ha noi",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lok-ha-noi-2696"
+    },
+    {
+      "name": "loo khee sheng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/loo-khee-sheng-2601"
+    },
+    {
+      "name": "loo wee ling",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280657",
+      "url": "https://faculty.smu.edu.sg/profile/loo-wee-ling-1811"
+    },
+    {
+      "name": "lou, yun",
+      "school": "school of accountancy",
+      "phone": "+6568289661",
+      "url": "https://faculty.smu.edu.sg/profile/lou-yun-6751"
+    },
+    {
+      "name": "joyce low mei wan",
+      "school": "lee kong chian school of business",
+      "phone": "+6568085299",
+      "url": "https://faculty.smu.edu.sg/profile/joyce-low-mei-wan-1826"
+    },
+    {
+      "name": "low chee seng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/low-chee-seng-2666"
+    },
+    {
+      "name": "low chin heng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/low-chin-heng-6221"
+    },
+    {
+      "name": "low kee yang",
+      "school": "yong pung how school of law",
+      "phone": "+6568280156",
+      "url": "https://faculty.smu.edu.sg/profile/low-kee-yang-1426"
+    },
+    {
+      "name": "low lay chin",
+      "school": "school of accountancy",
+      "phone": "+65 68280784",
+      "url": "https://faculty.smu.edu.sg/profile/low-lay-chin-876"
+    },
+    {
+      "name": "roger low",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/roger-low-2591"
+    },
+    {
+      "name": "joshua luczak",
+      "school": "college of integrative studies",
+      "phone": "+65 68261381",
+      "url": "https://faculty.smu.edu.sg/profile/luczak-joshua-2331"
+    },
+    {
+      "name": "lui hoe keong",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lui-hoe-keong-6526"
+    },
+    {
+      "name": "patricia lui",
+      "school": "lee kong chian school of business",
+      "phone": "+6568085185",
+      "url": "https://faculty.smu.edu.sg/profile/patricia-lui-6756"
+    },
+    {
+      "name": "dan ma",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280926",
+      "url": "https://faculty.smu.edu.sg/profile/dan-ma-501"
+    },
+    {
+      "name": "ma dong",
+      "school": "school of computing and information systems",
+      "phone": "+6568264862",
+      "url": "https://faculty.smu.edu.sg/profile/ma-dong-6266"
+    },
+    {
+      "name": "ma lin",
+      "school": "school of economics",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ma-lin-5836"
+    },
+    {
+      "name": "ma weiyi",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ma-weiyi-6906"
+    },
+    {
+      "name": "daniel mack",
+      "school": "lee kong chian school of business",
+      "phone": "+6568289659",
+      "url": "https://faculty.smu.edu.sg/profile/daniel-mack-1271"
+    },
+    {
+      "name": "mah suyun",
+      "school": "lee kong chian school of business",
+      "phone": "+6568289654",
+      "url": "https://faculty.smu.edu.sg/profile/mah-suyun-5981"
+    },
+    {
+      "name": "mai anh tien",
+      "school": "school of computing and information systems",
+      "phone": "+65 68264806",
+      "url": "https://faculty.smu.edu.sg/profile/mai-anh-tien-461"
+    },
+    {
+      "name": "tamas makany",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280534",
+      "url": "https://faculty.smu.edu.sg/profile/tamas-makany-1821"
+    },
+    {
+      "name": "roberto s mariano",
+      "school": "school of economics",
+      "phone": "+6568280888",
+      "url": "https://faculty.smu.edu.sg/profile/roberto-s-mariano-2371"
+    },
+    {
+      "name": "mark mclaughlin",
+      "school": "yong pung how school of law",
+      "phone": "+65 68289584",
+      "url": "https://faculty.smu.edu.sg/profile/mark-mclaughlin-6766"
+    },
+    {
+      "name": "alan megargel",
+      "school": "school of computing and information systems",
+      "phone": "+6568085276",
+      "url": "https://faculty.smu.edu.sg/profile/alan-megargel-926"
+    },
+    {
+      "name": "mei yuan",
+      "school": "school of economics",
+      "phone": "+65 68085212",
+      "url": "https://faculty.smu.edu.sg/profile/mei-yuan-1366"
+    },
+    {
+      "name": "thomas menkhoff",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280397",
+      "url": "https://faculty.smu.edu.sg/profile/thomas-menkhoff-1306"
+    },
+    {
+      "name": "steven miller",
+      "school": "school of computing and information systems",
+      "phone": "+6568280908",
+      "url": "https://faculty.smu.edu.sg/profile/steven-miller-1486"
+    },
+    {
+      "name": "vinit mishra",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/vinit-mishra-6361"
+    },
+    {
+      "name": "archan misra",
+      "school": "school of computing and information systems",
+      "phone": "+65 68085202",
+      "url": "https://faculty.smu.edu.sg/profile/archan-misra-376"
+    },
+    {
+      "name": "mok, heng ngee",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/mok-heng-ngee-5841"
+    },
+    {
+      "name": "sharafali moosa",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/sharafali-moosa-6171"
+    },
+    {
+      "name": "kyriakos mouratidis",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280649",
+      "url": "https://faculty.smu.edu.sg/profile/kyriakos-mouratidis-606"
+    },
+    {
+      "name": "ishani mukherjee",
+      "school": "school of social sciences",
+      "phone": "+65 68280848",
+      "url": "https://faculty.smu.edu.sg/profile/ishani-mukherjee-1801"
+    },
+    {
+      "name": "myong sunha",
+      "school": "school of economics",
+      "phone": "+65 68281914",
+      "url": "https://faculty.smu.edu.sg/profile/myong-sunha-1361"
+    },
+    {
+      "name": "jared nai",
+      "school": "lee kong chian school of business",
+      "phone": "+6568085169",
+      "url": "https://faculty.smu.edu.sg/profile/jared-nai-6771"
+    },
+    {
+      "name": "mehdi namazie",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/mehdi-namazie-2836"
+    },
+    {
+      "name": "ijlal naqvi",
+      "school": "school of social sciences",
+      "phone": "+65 68280846",
+      "url": "https://faculty.smu.edu.sg/profile/ijlal-naqvi-1126"
+    },
+    {
+      "name": "arcot desai narasimhalu",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/arcot-desai-narasimhalu-2346"
+    },
+    {
+      "name": "neo kin kah",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/neo-kin-kah-6116"
+    },
+    {
+      "name": "neo kok beng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/neo-kok-beng-2581"
+    },
+    {
+      "name": "neo thiam soon",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/neo-thiam-soon-6176"
+    },
+    {
+      "name": "annie ng",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/annie-ng-3361"
+    },
+    {
+      "name": "chuck ng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/chuck-ng-6016"
+    },
+    {
+      "name": "dennis ng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/dennis-ng-3511"
+    },
+    {
+      "name": "josh ng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/josh-ng-6336"
+    },
+    {
+      "name": "ng teng kuan",
+      "school": "college of integrative studies",
+      "phone": "+65 68264943",
+      "url": "https://faculty.smu.edu.sg/profile/ng-teng-kuan-5921"
+    },
+    {
+      "name": "shaphan ng",
+      "school": "school of accountancy",
+      "phone": "+6568280608",
+      "url": "https://faculty.smu.edu.sg/profile/shaphan-ng-6776"
+    },
+    {
+      "name": "kelly ngo siew peng",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/kelly-ngo-siew-peng-2411"
+    },
+    {
+      "name": "ngo chong wah",
+      "school": "school of computing and information systems",
+      "phone": "+65 68264818",
+      "url": "https://faculty.smu.edu.sg/profile/ngo-chong-wah-601"
+    },
+    {
+      "name": "ngoei wen-qing",
+      "school": "college of integrative studies",
+      "phone": "+65 68261380",
+      "url": "https://faculty.smu.edu.sg/profile/ngoei-wen-qing-2326"
+    },
+    {
+      "name": "nguyen duc thien",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/nguyen-duc-thien-6886"
+    },
+    {
+      "name": "david ocon",
+      "school": "school of social sciences",
+      "phone": "+65 68280209",
+      "url": "https://faculty.smu.edu.sg/profile/david-ocon-1401"
+    },
+    {
+      "name": "oh se kyoung",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/oh-se-kyoung-6616"
+    },
+    {
+      "name": "okkar kyaw",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/okkar-kyaw-6891"
+    },
+    {
+      "name": "lindy ong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lindy-ong-6136"
+    },
+    {
+      "name": "ong chong jin",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ong-chong-jin-6021"
+    },
+    {
+      "name": "ong ee ing",
+      "school": "yong pung how school of law",
+      "phone": "+6568087959",
+      "url": "https://faculty.smu.edu.sg/profile/ong-ee-ing-1781"
+    },
+    {
+      "name": "ong siow heng",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280545",
+      "url": "https://faculty.smu.edu.sg/profile/ong-siow-heng-1786"
+    },
+    {
+      "name": "ong, benjamin joshua",
+      "school": "yong pung how school of law",
+      "phone": "+6568289666",
+      "url": "https://faculty.smu.edu.sg/profile/ong-benjamin-joshua-6781"
+    },
+    {
+      "name": "victor ong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/victor-ong-6026"
+    },
+    {
+      "name": "vincent ooi",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085132",
+      "url": "https://faculty.smu.edu.sg/profile/vincent-ooi-1411"
+    },
+    {
+      "name": "yasmin ortiga",
+      "school": "school of social sciences",
+      "phone": "+65 68280299",
+      "url": "https://faculty.smu.edu.sg/profile/yasmin-ortiga-1121"
+    },
+    {
+      "name": "ernst christiaan osinga",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280798",
+      "url": "https://faculty.smu.edu.sg/profile/ernst-christiaan-osinga-1791"
+    },
+    {
+      "name": "clemens otto",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289652",
+      "url": "https://faculty.smu.edu.sg/profile/clemens-otto-1796"
+    },
+    {
+      "name": "ouh eng lieh",
+      "school": "school of computing and information systems",
+      "phone": "+65 68289596",
+      "url": "https://faculty.smu.edu.sg/profile/ouh-eng-lieh-576"
+    },
+    {
+      "name": "emiliano pagnotta",
+      "school": "lee kong chian school of business",
+      "phone": "+6568264842",
+      "url": "https://faculty.smu.edu.sg/profile/emiliano-pagnotta-6001"
+    },
+    {
+      "name": "gary pan",
+      "school": "school of accountancy",
+      "phone": "+6568280983",
+      "url": "https://faculty.smu.edu.sg/profile/gary-pan-6786"
+    },
+    {
+      "name": "augustine pang",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289607",
+      "url": "https://faculty.smu.edu.sg/profile/augustine-pang-1111"
+    },
+    {
+      "name": "guansong pang",
+      "school": "school of computing and information systems",
+      "phone": "+6568264864",
+      "url": "https://faculty.smu.edu.sg/profile/guansong-pang-6271"
+    },
+    {
+      "name": "pang eng fong",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280721",
+      "url": "https://faculty.smu.edu.sg/profile/pang-eng-fong-2451"
+    },
+    {
+      "name": "pang hwee hwa",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280265",
+      "url": "https://faculty.smu.edu.sg/profile/pang-hwee-hwa-571"
+    },
+    {
+      "name": "pang yang hoong",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/pang-yang-hoong-776"
+    },
+    {
+      "name": "sanjay panjabi",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/sanjay-panjabi-2461"
+    },
+    {
+      "name": "park haesoo",
+      "school": "college of integrative studies",
+      "phone": "+65 68280982",
+      "url": "https://faculty.smu.edu.sg/profile/park-haesoo-1496"
+    },
+    {
+      "name": "stella park",
+      "school": "school of accountancy",
+      "phone": "+6568264838",
+      "url": "https://faculty.smu.edu.sg/profile/stella-park-6276"
+    },
+    {
+      "name": "francis pavri",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/francis-pavri-2576"
+    },
+    {
+      "name": "nathan peng",
+      "school": "school of social sciences",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/nathan-peng-2436"
+    },
+    {
+      "name": "pepito, nona",
+      "school": "college of integrative studies",
+      "phone": "+6568261335",
+      "url": "https://faculty.smu.edu.sg/profile/pepito-nona-1776"
+    },
+    {
+      "name": "andrew phang",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280390",
+      "url": "https://faculty.smu.edu.sg/profile/andrew-phang-7086"
+    },
+    {
+      "name": "ian phang",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ian-phang-6031"
+    },
+    {
+      "name": "peter c. b. phillips",
+      "school": "school of economics",
+      "phone": "+65 68280865",
+      "url": "https://faculty.smu.edu.sg/profile/peter-c-b-phillips-956"
+    },
+    {
+      "name": "sam phoen",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/sam-phoen-6036"
+    },
+    {
+      "name": "marko pitesa",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289572",
+      "url": "https://faculty.smu.edu.sg/profile/marko-pitesa-916"
+    },
+    {
+      "name": "chris poskitt",
+      "school": "school of computing and information systems",
+      "phone": "+6568261376",
+      "url": "https://faculty.smu.edu.sg/profile/chris-poskitt-6791"
+    },
+    {
+      "name": "daniel preve",
+      "school": "school of economics",
+      "phone": "+6568261352",
+      "url": "https://faculty.smu.edu.sg/profile/daniel-preve-1751"
+    },
+    {
+      "name": "dan w. puchniak",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280893",
+      "url": "https://faculty.smu.edu.sg/profile/dan-w-puchniak-6416"
+    },
+    {
+      "name": "quek anderson dorcas",
+      "school": "yong pung how school of law",
+      "phone": "+6568289583",
+      "url": "https://faculty.smu.edu.sg/profile/quek-anderson-dorcas-1116"
+    },
+    {
+      "name": "shamala ramakresinin",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/shamala-ramakresinin-7206"
+    },
+    {
+      "name": "kiruthika ramanathan",
+      "school": "school of computing and information systems",
+      "phone": "+6568264907",
+      "url": "https://faculty.smu.edu.sg/profile/kiruthika-ramanathan-6476"
+    },
+    {
+      "name": "seshan ramaswami",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280391",
+      "url": "https://faculty.smu.edu.sg/profile/seshan-ramaswami-1756"
+    },
+    {
+      "name": "siri ramaswami",
+      "school": "school of social sciences",
+      "phone": "+65 68280845",
+      "url": "https://faculty.smu.edu.sg/profile/siri-ramaswami-2536"
+    },
+    {
+      "name": "yasmin hannah ramle",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/yasmin-hannah-ramle-6326"
+    },
+    {
+      "name": "sayd randle",
+      "school": "college of integrative studies",
+      "phone": "+65 68264976",
+      "url": "https://faculty.smu.edu.sg/profile/sayd-randle-7266"
+    },
+    {
+      "name": "rangnekar shirish satish",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/rangnekar-shirish-satish-6916"
+    },
+    {
+      "name": "shirish rangnekar",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/shirish-rangnekar-6631"
+    },
+    {
+      "name": "akanksha rath",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/akanksha-rath-2831"
+    },
+    {
+      "name": "jochen reb",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280246",
+      "url": "https://faculty.smu.edu.sg/profile/jochen-reb-1761"
+    },
+    {
+      "name": "srinivas k. reddy",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280742",
+      "url": "https://faculty.smu.edu.sg/profile/srinivas-k-reddy-1501"
+    },
+    {
+      "name": "nydia remolina leon",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280301",
+      "url": "https://faculty.smu.edu.sg/profile/nydia-remolina-leon-6311"
+    },
+    {
+      "name": "ricks, jacob",
+      "school": "school of social sciences",
+      "phone": "+65 68085460",
+      "url": "https://faculty.smu.edu.sg/profile/ricks-jacob-1101"
+    },
+    {
+      "name": "brian rodrigues",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280709",
+      "url": "https://faculty.smu.edu.sg/profile/brian-rodrigues-1216"
+    },
+    {
+      "name": "sungjong roh",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280377",
+      "url": "https://faculty.smu.edu.sg/profile/sungjong-roh-1766"
+    },
+    {
+      "name": "debanjali roy",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/debanjali-roy-7271"
+    },
+    {
+      "name": "shane gavin ryan",
+      "school": "college of integrative studies",
+      "phone": "+65 68280963",
+      "url": "https://faculty.smu.edu.sg/profile/shane-gavin-ryan-6281"
+    },
+    {
+      "name": "s n venkat",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/s-n-venkat-6196"
+    },
+    {
+      "name": "david samuel",
+      "school": "school of accountancy",
+      "phone": "+6568264929",
+      "url": "https://faculty.smu.edu.sg/profile/david-samuel-6481"
+    },
+    {
+      "name": "saw cheng lim",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280371",
+      "url": "https://faculty.smu.edu.sg/profile/saw-cheng-lim-1746"
+    },
+    {
+      "name": "say gui deng",
+      "school": "lee kong chian school of business",
+      "phone": "+6568281906",
+      "url": "https://faculty.smu.edu.sg/profile/say-gui-deng-1316"
+    },
+    {
+      "name": "stefanie schacherer",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280634",
+      "url": "https://faculty.smu.edu.sg/profile/stefanie-schacherer-6486"
+    },
+    {
+      "name": "michael schaerer",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289657",
+      "url": "https://faculty.smu.edu.sg/profile/michael-schaerer-1331"
+    },
+    {
+      "name": "simon schillebeeckx",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280403",
+      "url": "https://faculty.smu.edu.sg/profile/simon-schillebeeckx-1281"
+    },
+    {
+      "name": "daniel seah",
+      "school": "college of integrative studies",
+      "phone": "+65 68264886",
+      "url": "https://faculty.smu.edu.sg/profile/daniel-seah-6306"
+    },
+    {
+      "name": "alvin see wei liang",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085128",
+      "url": "https://faculty.smu.edu.sg/profile/alvin-see-wei-liang-1106"
+    },
+    {
+      "name": "seow poh sun",
+      "school": "school of accountancy",
+      "phone": "+65 68280935",
+      "url": "https://faculty.smu.edu.sg/profile/seow-poh-sun-771"
+    },
+    {
+      "name": "john sequeira",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68289569",
+      "url": "https://faculty.smu.edu.sg/profile/john-sequeira-1736"
+    },
+    {
+      "name": "charlotte setijadi",
+      "school": "school of social sciences",
+      "phone": "+65 68280207",
+      "url": "https://faculty.smu.edu.sg/profile/charlotte-setijadi-1731"
+    },
+    {
+      "name": "shang botong",
+      "school": "lee kong chian school of business",
+      "phone": "+6568289087",
+      "url": "https://faculty.smu.edu.sg/profile/shang-botong-5911"
+    },
+    {
+      "name": "venky shankararaman",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280931",
+      "url": "https://faculty.smu.edu.sg/profile/venky-shankararaman-416"
+    },
+    {
+      "name": "matthew shapiro",
+      "school": "school of economics",
+      "phone": "+65 68085174",
+      "url": "https://faculty.smu.edu.sg/profile/matthew-shapiro-1356"
+    },
+    {
+      "name": "shar lwin khin",
+      "school": "school of computing and information systems",
+      "phone": "+6568280019",
+      "url": "https://faculty.smu.edu.sg/profile/shar-lwin-khin-6796"
+    },
+    {
+      "name": "asankhaya sharma",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/asankhaya-sharma-6911"
+    },
+    {
+      "name": "she zhaowei",
+      "school": "lee kong chian school of business",
+      "phone": "+6568264880",
+      "url": "https://faculty.smu.edu.sg/profile/she-zhaowei-6286"
+    },
+    {
+      "name": "kyong jin shim",
+      "school": "school of computing and information systems",
+      "phone": "+6568085275",
+      "url": "https://faculty.smu.edu.sg/profile/kyong-jin-shim-471"
+    },
+    {
+      "name": "geoffrey da silva",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/geoffrey-da-silva-7231"
+    },
+    {
+      "name": "lester sim",
+      "school": "school of social sciences",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lester-sim-6801"
+    },
+    {
+      "name": "sim cher boon",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/sim-cher-boon-6236"
+    },
+    {
+      "name": "gurdip singh",
+      "school": "school of accountancy",
+      "phone": "+65 68085175",
+      "url": "https://faculty.smu.edu.sg/profile/gurdip-singh-2906"
+    },
+    {
+      "name": "nina sirola",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280593",
+      "url": "https://faculty.smu.edu.sg/profile/nina-sirola-1716"
+    },
+    {
+      "name": "jerrold soh",
+      "school": "yong pung how school of law",
+      "phone": "+6568261310",
+      "url": "https://faculty.smu.edu.sg/profile/jerrold-soh-6806"
+    },
+    {
+      "name": "song changcheng",
+      "school": "lee kong chian school of business",
+      "phone": "+6568089610",
+      "url": "https://faculty.smu.edu.sg/profile/song-changcheng-6811"
+    },
+    {
+      "name": "wayne soo",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/wayne-soo-661"
+    },
+    {
+      "name": "emily soon",
+      "school": "college of integrative studies",
+      "phone": "+65 68280924",
+      "url": "https://faculty.smu.edu.sg/profile/emily-soon-1726"
+    },
+    {
+      "name": "vivien soon",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/vivien-soon-1466"
+    },
+    {
+      "name": "rajendra k srivastava",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/rajendra-k-srivastava-2486"
+    },
+    {
+      "name": "paulin tay straughan",
+      "school": "school of social sciences",
+      "phone": "+65 68289667",
+      "url": "https://faculty.smu.edu.sg/profile/paulin-tay-straughan-1431"
+    },
+    {
+      "name": "elizabeth su",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/elizabeth-su-2566"
+    },
+    {
+      "name": "sum yee loong",
+      "school": "school of accountancy",
+      "phone": "+65 68280605",
+      "url": "https://faculty.smu.edu.sg/profile/sum-yee-loong-766"
+    },
+    {
+      "name": "sun jian",
+      "school": "lee kong chian school of business",
+      "phone": "+6568264919",
+      "url": "https://faculty.smu.edu.sg/profile/sun-jian-6491"
+    },
+    {
+      "name": "sun jun",
+      "school": "school of computing and information systems",
+      "phone": "+6568261312",
+      "url": "https://faculty.smu.edu.sg/profile/sun-jun-6816"
+    },
+    {
+      "name": "sun qianru",
+      "school": "school of computing and information systems",
+      "phone": "+65 68261360",
+      "url": "https://faculty.smu.edu.sg/profile/sun-qianru-551"
+    },
+    {
+      "name": "sun yu juliana",
+      "school": "school of economics",
+      "phone": "+65 68085456",
+      "url": "https://faculty.smu.edu.sg/profile/sun-yu-juliana-1351"
+    },
+    {
+      "name": "themin suwardy",
+      "school": "school of accountancy",
+      "phone": "+65 68280399",
+      "url": "https://faculty.smu.edu.sg/profile/themin-suwardy-761"
+    },
+    {
+      "name": "don ta",
+      "school": "school of computing and information systems",
+      "phone": "+6568260158",
+      "url": "https://faculty.smu.edu.sg/profile/don-ta-326"
+    },
+    {
+      "name": "kenneth tai",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085481",
+      "url": "https://faculty.smu.edu.sg/profile/kenneth-tai-911"
+    },
+    {
+      "name": "himanshu tambe",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/himanshu-tambe-7226"
+    },
+    {
+      "name": "augustine hh tan",
+      "school": "school of economics",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/augustine-hh-tan-2511"
+    },
+    {
+      "name": "edmund tan",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/edmund-tan-6086"
+    },
+    {
+      "name": "eugene tan kheng boon",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280778",
+      "url": "https://faculty.smu.edu.sg/profile/eugene-tan-kheng-boon-1706"
+    },
+    {
+      "name": "gilbert tan",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/gilbert-tan-7211"
+    },
+    {
+      "name": "jacinth tan",
+      "school": "school of social sciences",
+      "phone": "+6568280875",
+      "url": "https://faculty.smu.edu.sg/profile/jacinth-tan-6821"
+    },
+    {
+      "name": "jeslyn tan",
+      "school": "school of economics",
+      "phone": "+65 68281986",
+      "url": "https://faculty.smu.edu.sg/profile/jeslyn-tan-2911"
+    },
+    {
+      "name": "josephine tan",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/josephine-tan-6051"
+    },
+    {
+      "name": "kenneth tan",
+      "school": "school of social sciences",
+      "phone": "+6568085289",
+      "url": "https://faculty.smu.edu.sg/profile/kenneth-tan-1696"
+    },
+    {
+      "name": "nina tan",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/nina-tan-6201"
+    },
+    {
+      "name": "patrick tan siong kuan",
+      "school": "lee kong chian school of business",
+      "phone": "+6568261338",
+      "url": "https://faculty.smu.edu.sg/profile/patrick-tan-siong-kuan-1691"
+    },
+    {
+      "name": "pearl tan",
+      "school": "school of accountancy",
+      "phone": "+65 68280221",
+      "url": "https://faculty.smu.edu.sg/profile/pearl-tan-756"
+    },
+    {
+      "name": "rachel tan yi",
+      "school": "school of economics",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/rachel-tan-yi-2416"
+    },
+    {
+      "name": "samuel tan",
+      "school": "school of accountancy",
+      "phone": "+65 68085407",
+      "url": "https://faculty.smu.edu.sg/profile/samuel-tan-691"
+    },
+    {
+      "name": "tan ah hwee",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280022",
+      "url": "https://faculty.smu.edu.sg/profile/tan-ah-hwee-546"
+    },
+    {
+      "name": "tan boon ann",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/tan-boon-ann-2736"
+    },
+    {
+      "name": "tan boon heng",
+      "school": "yong pung how school of law",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/tan-boon-heng-3406"
+    },
+    {
+      "name": "tan chee hiang nicholas",
+      "school": "school of computing and information systems",
+      "phone": "+6568289089",
+      "url": "https://faculty.smu.edu.sg/profile/tan-chee-hiang-nicholas-5586"
+    },
+    {
+      "name": "tan chin tiong",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280151",
+      "url": "https://faculty.smu.edu.sg/profile/tan-chin-tiong-1711"
+    },
+    {
+      "name": "tan hwee hoon",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280524",
+      "url": "https://faculty.smu.edu.sg/profile/tan-hwee-hoon-1031"
+    },
+    {
+      "name": "tan kar way",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280706",
+      "url": "https://faculty.smu.edu.sg/profile/tan-kar-way-421"
+    },
+    {
+      "name": "tan kim song",
+      "school": "school of economics",
+      "phone": "+65 68280854",
+      "url": "https://faculty.smu.edu.sg/profile/tan-kim-song-1701"
+    },
+    {
+      "name": "tan lay khim",
+      "school": "school of accountancy",
+      "phone": "+65 68280602",
+      "url": "https://faculty.smu.edu.sg/profile/tan-lay-khim-2516"
+    },
+    {
+      "name": "tan rani",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280767",
+      "url": "https://faculty.smu.edu.sg/profile/tan-rani-1081"
+    },
+    {
+      "name": "tan seow hon",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085105",
+      "url": "https://faculty.smu.edu.sg/profile/tan-seow-hon-1686"
+    },
+    {
+      "name": "tan sor hoon",
+      "school": "school of social sciences",
+      "phone": "+65 68280869",
+      "url": "https://faculty.smu.edu.sg/profile/tan-sor-hoon-1671"
+    },
+    {
+      "name": "tan swee liang",
+      "school": "school of economics",
+      "phone": "+65 68280710",
+      "url": "https://faculty.smu.edu.sg/profile/tan-swee-liang-1681"
+    },
+    {
+      "name": "tan wee liang",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280157",
+      "url": "https://faculty.smu.edu.sg/profile/tan-wee-liang-1666"
+    },
+    {
+      "name": "tan yi ying",
+      "school": "school of economics",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/tan-yi-ying-5926"
+    },
+    {
+      "name": "judy tan",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/judy-tan-2561"
+    },
+    {
+      "name": "tan poh choo",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/tan-poh-choo-1461"
+    },
+    {
+      "name": "qian tang",
+      "school": "school of computing and information systems",
+      "phone": "+65 68085442",
+      "url": "https://faculty.smu.edu.sg/profile/qian-tang-446"
+    },
+    {
+      "name": "tang hang wu",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085356",
+      "url": "https://faculty.smu.edu.sg/profile/tang-hang-wu-1086"
+    },
+    {
+      "name": "tang, tony",
+      "school": "school of computing and information systems",
+      "phone": "+6568261348",
+      "url": "https://faculty.smu.edu.sg/profile/tang-tony-7146"
+    },
+    {
+      "name": "ksenia tatarchenko",
+      "school": "college of integrative studies",
+      "phone": "+65 68261340",
+      "url": "https://faculty.smu.edu.sg/profile/ksenia-tatarchenko-1676"
+    },
+    {
+      "name": "adam tatarynowicz",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280028",
+      "url": "https://faculty.smu.edu.sg/profile/adam-tatarynowicz-1076"
+    },
+    {
+      "name": "anthony s. tay",
+      "school": "school of economics",
+      "phone": "+65 68280850",
+      "url": "https://faculty.smu.edu.sg/profile/anthony-s-tay-1646"
+    },
+    {
+      "name": "elgin tay",
+      "school": "yong pung how school of law",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/elgin-tay-3401"
+    },
+    {
+      "name": "ronald tay",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/ronald-tay-5146"
+    },
+    {
+      "name": "petrina tee",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/petrina-tee-7236"
+    },
+    {
+      "name": "tee chong yu",
+      "school": "school of accountancy",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/tee-chong-yu-2456"
+    },
+    {
+      "name": "tee chyng wen",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280819",
+      "url": "https://faculty.smu.edu.sg/profile/tee-chyng-wen-1636"
+    },
+    {
+      "name": "wilson teng",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/wilson-teng-6206"
+    },
+    {
+      "name": "eddie teo",
+      "school": "school of social sciences",
+      "phone": "+65 68280408",
+      "url": "https://faculty.smu.edu.sg/profile/eddie-teo-2476"
+    },
+    {
+      "name": "melvyn teo",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280735",
+      "url": "https://faculty.smu.edu.sg/profile/melvyn-teo-1651"
+    },
+    {
+      "name": "raymond teo",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/raymond-teo-2731"
+    },
+    {
+      "name": "tham chee ho",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280705",
+      "url": "https://faculty.smu.edu.sg/profile/tham-chee-ho-1656"
+    },
+    {
+      "name": "tham, tze minn mandy",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280498",
+      "url": "https://faculty.smu.edu.sg/profile/tham-tze-minn-mandy-1416"
+    },
+    {
+      "name": "patrick thng",
+      "school": "school of computing and information systems",
+      "phone": "+6568085433",
+      "url": "https://faculty.smu.edu.sg/profile/patrick-thng-441"
+    },
+    {
+      "name": "howard thomas",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280030",
+      "url": "https://faculty.smu.edu.sg/profile/howard-thomas-2336"
+    },
+    {
+      "name": "manoj thulasidas",
+      "school": "school of computing and information systems",
+      "phone": "+65 68289625",
+      "url": "https://faculty.smu.edu.sg/profile/manoj-thulasidas-596"
+    },
+    {
+      "name": "edward ti",
+      "school": "yong pung how school of law",
+      "phone": "+6568289593",
+      "url": "https://faculty.smu.edu.sg/profile/edward-ti-6826"
+    },
+    {
+      "name": "william tov",
+      "school": "school of social sciences",
+      "phone": "+65 68281904",
+      "url": "https://faculty.smu.edu.sg/profile/william-tov-1611"
+    },
+    {
+      "name": "tsai ming-hong",
+      "school": "school of social sciences",
+      "phone": "+65 68281905",
+      "url": "https://faculty.smu.edu.sg/profile/tsai-ming-hong-1626"
+    },
+    {
+      "name": "ted tschang",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280251",
+      "url": "https://faculty.smu.edu.sg/profile/ted-tschang-1601"
+    },
+    {
+      "name": "tse yiu kuen",
+      "school": "school of economics",
+      "phone": "+65 68280257",
+      "url": "https://faculty.smu.edu.sg/profile/tse-yiu-kuen-1616"
+    },
+    {
+      "name": "tse, justin k",
+      "school": "college of integrative studies",
+      "phone": "+6568261343",
+      "url": "https://faculty.smu.edu.sg/profile/tse-justin-k-1631"
+    },
+    {
+      "name": "tu jun",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280764",
+      "url": "https://faculty.smu.edu.sg/profile/tu-jun-1621"
+    },
+    {
+      "name": "kapil tuli",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280434",
+      "url": "https://faculty.smu.edu.sg/profile/kapil-tuli-1606"
+    },
+    {
+      "name": "bhavani shanker uppari",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085247",
+      "url": "https://faculty.smu.edu.sg/profile/bhavani-shanker-uppari-1296"
+    },
+    {
+      "name": "vadera, abhijeet k.",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280702",
+      "url": "https://faculty.smu.edu.sg/profile/vadera-abhijeet-k-6831"
+    },
+    {
+      "name": "terry van gevelt",
+      "school": "college of integrative studies",
+      "phone": "+65 68264946",
+      "url": "https://faculty.smu.edu.sg/profile/terry-van-gevelt-6576"
+    },
+    {
+      "name": "pradeep reddy varakantham",
+      "school": "school of computing and information systems",
+      "phone": "+6568280519",
+      "url": "https://faculty.smu.edu.sg/profile/pradeep-reddy-varakantham-6836"
+    },
+    {
+      "name": "lynette wan",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/lynette-wan-6591"
+    },
+    {
+      "name": "davin wang",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/davin-wang-6151"
+    },
+    {
+      "name": "frances yaping wang",
+      "school": "school of social sciences",
+      "phone": "+65 68280838",
+      "url": "https://faculty.smu.edu.sg/profile/frances-yaping-wang-1396"
+    },
+    {
+      "name": "heng wang",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085118",
+      "url": "https://faculty.smu.edu.sg/profile/heng-wang-7161"
+    },
+    {
+      "name": "wang hai",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280088",
+      "url": "https://faculty.smu.edu.sg/profile/wang-hai-411"
+    },
+    {
+      "name": "wang heli",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280728",
+      "url": "https://faculty.smu.edu.sg/profile/wang-heli-1596"
+    },
+    {
+      "name": "wang jiwei",
+      "school": "school of accountancy",
+      "phone": "+6568280616",
+      "url": "https://faculty.smu.edu.sg/profile/wang-jiwei-6841"
+    },
+    {
+      "name": "wang rencheng",
+      "school": "school of accountancy",
+      "phone": "+6568085125",
+      "url": "https://faculty.smu.edu.sg/profile/wang-rencheng-6846"
+    },
+    {
+      "name": "wang rong",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280148",
+      "url": "https://faculty.smu.edu.sg/profile/wang-rong-996"
+    },
+    {
+      "name": "wang wei mun",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/wang-wei-mun-5021"
+    },
+    {
+      "name": "wang yong",
+      "school": "school of computing and information systems",
+      "phone": "+65 68264808",
+      "url": "https://faculty.smu.edu.sg/profile/wang-yong-531"
+    },
+    {
+      "name": "wang zhaoxia",
+      "school": "school of computing and information systems",
+      "phone": "+6568261347",
+      "url": "https://faculty.smu.edu.sg/profile/wang-zhaoxia-536"
+    },
+    {
+      "name": "yin wang",
+      "school": "school of accountancy",
+      "phone": "+65 68085420",
+      "url": "https://faculty.smu.edu.sg/profile/yin-wang-686"
+    },
+    {
+      "name": "adrian wee",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/adrian-wee-6386"
+    },
+    {
+      "name": "justus wee",
+      "school": "school of social sciences",
+      "phone": "+65 68280845",
+      "url": "https://faculty.smu.edu.sg/profile/justus-wee-5961"
+    },
+    {
+      "name": "wee kwan eng",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280759",
+      "url": "https://faculty.smu.edu.sg/profile/wee-kwan-eng-1581"
+    },
+    {
+      "name": "fiona clare williamson",
+      "school": "college of integrative studies",
+      "phone": "+65 68280418",
+      "url": "https://faculty.smu.edu.sg/profile/fiona-clare-williamson-1066"
+    },
+    {
+      "name": "swavek wlodkowski",
+      "school": "school of computing and information systems",
+      "phone": "+6568264835",
+      "url": "https://faculty.smu.edu.sg/profile/swavek-wlodkowski-6396"
+    },
+    {
+      "name": "aidan wong",
+      "school": "college of integrative studies",
+      "phone": "+65 68085256",
+      "url": "https://faculty.smu.edu.sg/profile/aidan-wong-1576"
+    },
+    {
+      "name": "george wong",
+      "school": "school of social sciences",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/george-wong-7251"
+    },
+    {
+      "name": "max wong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/max-wong-6366"
+    },
+    {
+      "name": "wong suay peng",
+      "school": "school of accountancy",
+      "phone": "+6568085245",
+      "url": "https://faculty.smu.edu.sg/profile/wong-suay-peng-741"
+    },
+    {
+      "name": "wong tiong kiat",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/wong-tiong-kiat-6341"
+    },
+    {
+      "name": "wong yuet nan",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/wong-yuet-nan-3356"
+    },
+    {
+      "name": "orlando woods",
+      "school": "college of integrative studies",
+      "phone": "+65 68280718",
+      "url": "https://faculty.smu.edu.sg/profile/orlando-woods-1071"
+    },
+    {
+      "name": "walter woon",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280654",
+      "url": "https://faculty.smu.edu.sg/profile/walter-woon-6496"
+    },
+    {
+      "name": "wu zhengxiao",
+      "school": "school of economics",
+      "phone": "+65 68085318",
+      "url": "https://faculty.smu.edu.sg/profile/wu-zhengxiao-1571"
+    },
+    {
+      "name": "wu min",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/wu-min-1236"
+    },
+    {
+      "name": "xie xiaofei",
+      "school": "school of computing and information systems",
+      "phone": "+6568264861",
+      "url": "https://faculty.smu.edu.sg/profile/xie-xiaofei-6291"
+    },
+    {
+      "name": "leon xu liang",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280761",
+      "url": "https://faculty.smu.edu.sg/profile/leon-xu-liang-6566"
+    },
+    {
+      "name": "xu jianhuan",
+      "school": "school of economics",
+      "phone": "+65 68280085",
+      "url": "https://faculty.smu.edu.sg/profile/xu-jianhuan-1346"
+    },
+    {
+      "name": "xue jingyi",
+      "school": "school of economics",
+      "phone": "+65 68085466",
+      "url": "https://faculty.smu.edu.sg/profile/xue-jingyi-1556"
+    },
+    {
+      "name": "holly yang",
+      "school": "school of accountancy",
+      "phone": "+65 68085447",
+      "url": "https://faculty.smu.edu.sg/profile/holly-yang-736"
+    },
+    {
+      "name": "yang chenying",
+      "school": "school of economics",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/yang-chenying-5991"
+    },
+    {
+      "name": "yang guomin",
+      "school": "school of computing and information systems",
+      "phone": "+6568264928",
+      "url": "https://faculty.smu.edu.sg/profile/yang-guomin-6571"
+    },
+    {
+      "name": "yang hwajin",
+      "school": "school of social sciences",
+      "phone": "+65 68280975",
+      "url": "https://faculty.smu.edu.sg/profile/yang-hwajin-1546"
+    },
+    {
+      "name": "yang zhenlin",
+      "school": "school of economics",
+      "phone": "+65 68280852",
+      "url": "https://faculty.smu.edu.sg/profile/yang-zhenlin-1551"
+    },
+    {
+      "name": "eric yee",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/eric-yee-6041"
+    },
+    {
+      "name": "yeo keng leong",
+      "school": "school of economics",
+      "phone": "+65 68281986",
+      "url": "https://faculty.smu.edu.sg/profile/yeo-keng-leong-2396"
+    },
+    {
+      "name": "yeo su lin",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68087947",
+      "url": "https://faculty.smu.edu.sg/profile/yeo-su-lin-1561"
+    },
+    {
+      "name": "yeo tiong min",
+      "school": "yong pung how school of law",
+      "phone": "+65 68280894",
+      "url": "https://faculty.smu.edu.sg/profile/yeo-tiong-min-1056"
+    },
+    {
+      "name": "brandon yip",
+      "school": "school of social sciences",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/brandon-yip-2366"
+    },
+    {
+      "name": "yip man",
+      "school": "yong pung how school of law",
+      "phone": "+6568085159",
+      "url": "https://faculty.smu.edu.sg/profile/yip-man-1041"
+    },
+    {
+      "name": "yong hsin ning",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/yong-hsin-ning-6211"
+    },
+    {
+      "name": "toru yoshikawa",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280756",
+      "url": "https://faculty.smu.edu.sg/profile/toru-yoshikawa-1541"
+    },
+    {
+      "name": "qi yu",
+      "school": "lee kong chian school of business",
+      "phone": "+6568085339",
+      "url": "https://faculty.smu.edu.sg/profile/qi-yu-5846"
+    },
+    {
+      "name": "yu jun",
+      "school": "school of economics",
+      "phone": "+65 68280858",
+      "url": "https://faculty.smu.edu.sg/profile/yu-jun-2886"
+    },
+    {
+      "name": "yu yang",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280772",
+      "url": "https://faculty.smu.edu.sg/profile/yu-yang-1291"
+    },
+    {
+      "name": "yue heng",
+      "school": "school of accountancy",
+      "phone": "+65 68289082",
+      "url": "https://faculty.smu.edu.sg/profile/yue-heng-721"
+    },
+    {
+      "name": "katherine yuen",
+      "school": "school of accountancy",
+      "phone": "+65 68280952",
+      "url": "https://faculty.smu.edu.sg/profile/katherine-yuen-641"
+    },
+    {
+      "name": "zang yoonseok",
+      "school": "school of accountancy",
+      "phone": "+65 68280601",
+      "url": "https://faculty.smu.edu.sg/profile/zang-yoonseok-731"
+    },
+    {
+      "name": "alan zeller",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/alan-zeller-6181"
+    },
+    {
+      "name": "joe zhang",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280727",
+      "url": "https://faculty.smu.edu.sg/profile/joe-zhang-1526"
+    },
+    {
+      "name": "liandong zhang",
+      "school": "school of accountancy",
+      "phone": "+65 68289665",
+      "url": "https://faculty.smu.edu.sg/profile/liandong-zhang-716"
+    },
+    {
+      "name": "q forrest zhang",
+      "school": "school of social sciences",
+      "phone": "+65 68280294",
+      "url": "https://faculty.smu.edu.sg/profile/q-forrest-zhang-1536"
+    },
+    {
+      "name": "tracey zhang",
+      "school": "school of accountancy",
+      "phone": "+65 68280104",
+      "url": "https://faculty.smu.edu.sg/profile/tracey-zhang-726"
+    },
+    {
+      "name": "whitney, zhang wei",
+      "school": "lee kong chian school of business",
+      "phone": "+6568280405",
+      "url": "https://faculty.smu.edu.sg/profile/whitney-zhang-wei-1506"
+    },
+    {
+      "name": "yichong zhang",
+      "school": "school of economics",
+      "phone": "+6568280881",
+      "url": "https://faculty.smu.edu.sg/profile/yichong-zhang-1521"
+    },
+    {
+      "name": "zhang hong",
+      "school": "lee kong chian school of business",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/zhang-hong-6501"
+    },
+    {
+      "name": "zhang man, cyndi",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085322",
+      "url": "https://faculty.smu.edu.sg/profile/zhang-man-cyndi-1531"
+    },
+    {
+      "name": "zhang wei",
+      "school": "yong pung how school of law",
+      "phone": "+65 68085357",
+      "url": "https://faculty.smu.edu.sg/profile/zhang-wei-1051"
+    },
+    {
+      "name": "zhang xuan",
+      "school": "school of economics",
+      "phone": "+65 68261349",
+      "url": "https://faculty.smu.edu.sg/profile/zhang-xuan-1341"
+    },
+    {
+      "name": "zhao yibao",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68280925",
+      "url": "https://faculty.smu.edu.sg/profile/zhao-yibao-1516"
+    },
+    {
+      "name": "zheng baihua",
+      "school": "school of computing and information systems",
+      "phone": "+65 68280915",
+      "url": "https://faculty.smu.edu.sg/profile/zheng-baihua-521"
+    },
+    {
+      "name": "zheng zhichao daniel",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085474",
+      "url": "https://faculty.smu.edu.sg/profile/zheng-zhichao-daniel-1511"
+    },
+    {
+      "name": "yangfang (helen) zhou",
+      "school": "lee kong chian school of business",
+      "phone": "+65 68085370",
+      "url": "https://faculty.smu.edu.sg/profile/yangfang-helen-zhou-1276"
+    },
+    {
+      "name": "zhou yu xuan, sophia",
+      "school": "school of computing and information systems",
+      "phone": null,
+      "url": "https://faculty.smu.edu.sg/profile/zhou-yu-xuan-sophia-5906"
+    },
+    {
+      "name": "zhu feida",
+      "school": "school of computing and information systems",
+      "phone": "+65 68085101",
+      "url": "https://faculty.smu.edu.sg/profile/zhu-feida-516"
+    }
+  ]
+}
