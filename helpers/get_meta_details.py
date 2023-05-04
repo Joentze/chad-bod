@@ -26,8 +26,9 @@ if __name__ == "__main__":
         obj = json.load(file)
         blogs = obj["data"]
         for blog in blogs:
-            documents.append(blog["description"].strip())
-            sources.append(blog["url"])
+            if len(blog["description"]) > 0:
+                documents.append(blog["description"].strip())
+                sources.append(blog["url"])
     with open("./vector_documents/blogs.json", "w", encoding="utf-8") as file:
         json.dump({"documents": documents, "sources": sources}, file)
 
