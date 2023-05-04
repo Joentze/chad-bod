@@ -20,13 +20,27 @@ def get_faculty(page_start: int, page_end: int):
         data = response.json()
         hits = data["results"][0]["hits"]
         persons = [{"name": hit["name"].strip().lower(), "school":hit["school"].lower(),
-                    "phone":hit["phone"], "url":hit["url"],"email":hit["email"]}for hit in hits]
+                    "phone":hit["phone"], "url":hit["url"], "email":hit["email"]}for hit in hits]
         all_faulty += persons
     return all_faulty
 
 
 if __name__ == "__main__":
-    with open("./data/faculty.json", "w", encoding="utf-8") as file:
-        faculty = get_faculty(0, 30)
-        print(len(faculty))
-        json.dump({"data": faculty}, file)
+    # with open("./data/faculty.json", "w", encoding="utf-8") as file:
+    #     faculty = get_faculty(0, 30)
+    #     json.dump({"data": faculty}, file)
+    written_faculty_details = []
+    sources = []
+    with open("./data/faculty.json", "r", encoding="utf-8") as file:
+        faculty = json.load(file)["data"]
+        for detail in faculty:
+            name, school, phone, url, email = detail.items()
+            if phone[1] is None:
+                phone_str = "does not have a phone number"
+            else:
+                phone_str = f"and phone number is {phone[1]}"
+            string = f"{name[1]} is part of {school[1]}, his or her contact details are as follows: email - {email[1]} and {phone_str}. find more details here: {url[1]}"
+            written_faculty_details.append(string)
+            sources.append(url[1])
+    with open("./vector_documents/faculty.json", "w", encoding="utf-8") as file:
+        json.dump({"documents": written_faculty_details, "sources": sources}, file)

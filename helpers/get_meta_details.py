@@ -20,9 +20,15 @@ def get_meta_tags(links):
 
 
 if __name__ == "__main__":
-    with open("./data/smu_blog_links.json", "r", encoding="utf-8") as file:
+    documents = []
+    sources = []
+    with open("./data/smu_blog_desc.json", "r", encoding="utf-8") as file:
         obj = json.load(file)
-        links = obj["links"]
-        get_meta_tags(links)
-    with open("./data/smu_blog_desc.json", "w", encoding="utf-8") as file:
-        json.dump({"data": results}, file)
+        blogs = obj["data"]
+        for blog in blogs:
+            documents.append(blog["description"].strip())
+            sources.append(blog["url"])
+    with open("./vector_documents/blogs.json", "w", encoding="utf-8") as file:
+        json.dump({"documents": documents, "sources": sources}, file)
+
+    # with open("./data/smu_blog_desc.json", "w", encoding="utf-8") as file:
