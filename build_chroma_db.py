@@ -92,6 +92,6 @@ def get_contexts(question: str, collection, num_of_results):
 
 if __name__ == "__main__":
     compile_all_documents("vector_documents")
-    init_chroma("smu_facts", f"./{COLLECTION_JSON}")
+    # init_chroma("smu_facts", f"./{COLLECTION_JSON}")
 
     # print(results)

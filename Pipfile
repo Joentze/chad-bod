@@ -9,6 +9,8 @@ flask = "*"
 gunicorn = "*"
 posthog = "*"
 pandas = "*"
+supabase = "*"
+matplotlib = "*"
 
 [dev-packages]
 
