@@ -8,6 +8,11 @@ from build_chroma_db import get_contexts, chroma, ef
 from prompts import get_prompt
 
 from telegram_helper import edit_message
+
+MAX_NUM_TOKEN_TELEGRAM = 60
+EXCEED_TOKEN_MESSAGE = """```You've exceeded the token limit for this message, please rephrase into a shorter statement...```"""
+
+
 davinci = OpenAI(model_name='text-davinci-003',
                  openai_api_key=OPEN_AI_KEY, temperature=0, max_tokens=256)
 
@@ -19,6 +24,11 @@ class TelegramQuery:
     chat_id: str
     message_id: str
     query: str
+
+
+def is_within_token_limit(message: str) -> bool:
+    """checks if message sent is within character limit"""
+    return len(message) <= MAX_NUM_TOKEN_TELEGRAM
 
 
 def run_llm(question: str, collection):
@@ -34,6 +44,9 @@ def respond_with_llm(configs):
     query = TelegramQuery(
         chat_id=configs["chat_id"], message_id=configs["message_id"], query=configs["query"])
     response = run_llm(question=query.query, collection=collection)
+    if is_within_token_limit(query.query) is False:
+        return edit_message(API_KEY=TELEGRAM_API_KEY, message_id=query.message_id,
+                            chat_id=query.chat_id, new_message=EXCEED_TOKEN_MESSAGE)
     return edit_message(API_KEY=TELEGRAM_API_KEY, message_id=query.message_id,
                         chat_id=query.chat_id, new_message=response)
 
