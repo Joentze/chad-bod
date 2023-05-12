@@ -1,10 +1,13 @@
 """adds documents in supabase vector database"""
+from threading import Thread
 import json
 from typing import List
 from os import listdir, environ
 import openai
-from openai.embeddings_utils import get_embedding
 from supabase import create_client
+from pprint import pprint
+# thread
+MAX_NUM_OF_THREADS = 8
 
 # open ai details
 openai.api_key = environ["OPENAI_API_KEY"]
@@ -17,7 +20,7 @@ COLLECTION_JSON = "compiled.json"
 
 
 def compile_all_documents(path: str) -> None:
-    """gets all vector documents and generates a compiled file for chroma loading"""
+    """gets all vector documents and generates a compiled file for supabase loading"""
     documents = {"documents": []}
     for this_file in listdir(f"./{path}"):
         with open(f"./{path}/{this_file}", "r", encoding="utf-8") as file:
@@ -31,23 +34,58 @@ def compile_all_documents(path: str) -> None:
         json.dump(documents, file)
 
 
-def get_embeddings(document: str) -> List[float]:
-    """get open ai embedding"""
-    try:
-        embedding = get_embedding(
-            text=document, engine="text-embedding-ada-002")
-        return embedding
-    except Exception as error:
-        print(
-            error, f"The following document cannot be embedded at this time {document}")
+# def get_embeddings(document: str) -> List[float]:
+#     """get open ai embedding"""
+#     try:
+#         embedding = get_embedding(
+#             text=document, engine="text-embedding-ada-002")
+#         return embedding
+#     except Exception as error:
+#         print(
+#             error, f"The following document cannot be embedded at this time {document}")
 
 
-def write_to_supabase(documents: List[object]):
+def write_embeddings_to_documents(documents: List[object]) -> None:
+    """writes all documents and embeddings to supabase documents table"""
+
+    for document in documents:
+        embedding = openai.Embedding.create(
+            input=document["content"], model="text-embedding-ada-002"
+        )["data"][0]["embedding"]
+        document = {"content": document["content"],
+                    "embedding": embedding, "source": document["source"]}
+
+        supabase.table("documents").insert(document).execute()
 
 
-def push_embeddings(compiled_json_file: str):
-    with open(compiled_json_file, "r", encoding="utf-8") as file:
-        documents = json.load(file)["documents"]
-    for document in documents[:10]:
-        content = document["content"]
-        embedding = get_embedding(content)
+# def segment_write_to_supabase(all_docs:List[object])->None:
+
+
+def segment_content(documents: List[object], num_of_threads: int) -> List[List[object]]:
+    """breaks documents into chunks"""
+    segments = [[] for i in range(num_of_threads)]
+    for i, document in enumerate(documents):
+        multiplier = i // num_of_threads
+        segments[i - num_of_threads*multiplier].append(document)
+    return segments
+
+
+def segment_write_to_supabase(documents: List[object]) -> None:
+    """threaded write to supabase"""
+    threads = [Thread(target=write_embeddings_to_documents, kwargs={"documents": segment})
+               for segment in segment_content(documents, MAX_NUM_OF_THREADS)]
+    # START THREADS
+    for thread in threads:
+        thread.start()
+    # JOIN THREADS
+    for thread in threads:
+        thread.join()
+
+
+if __name__ == "__main__":
+    # compile_all_documents("vector_documents")
+    # with open(COLLECTION_JSON, "r", encoding="utf-8") as file:
+    #     obj = json.load(file)
+    #     docs = obj["documents"]
+    # segment_write_to_supabase(docs)
+    pass
