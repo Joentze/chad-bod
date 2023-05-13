@@ -11,6 +11,7 @@ posthog = "*"
 pandas = "*"
 supabase = "*"
 matplotlib = "*"
+openai = "*"
 
 [dev-packages]
 

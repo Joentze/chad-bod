@@ -82,6 +82,24 @@ def segment_write_to_supabase(documents: List[object]) -> None:
         thread.join()
 
 
+def get_context_from_supabase(query: str, threshold: float, count: int) -> List[str]:
+    """get contexts from supabase"""
+    contexts = []
+    embedding = openai.Embedding.create(
+        input=query, model="text-embedding-ada-002")["data"][0]["embedding"]
+    response = supabase.rpc("match_documents", {
+        "query_embedding": embedding,
+        "similarity_threshold": threshold,
+        "match_count": count,
+    }).execute()
+    for context in response.data:
+        content = context["content"]
+        source = context["source"]
+        line = f"{content} (source: {source})"
+        contexts.append(line)
+    return "\n".join(contexts)
+
+
 if __name__ == "__main__":
     # compile_all_documents("vector_documents")
     # with open(COLLECTION_JSON, "r", encoding="utf-8") as file:

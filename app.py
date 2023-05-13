@@ -6,6 +6,10 @@ import os
 import base64
 from flask import Flask, request
 from chat_bot_main import respond_with_llm
+from telegram_helper import reply_loading
+from secret_keys import TELEGRAM_API_KEY
+
+
 app = Flask(__name__)
 
 PORT = int(os.environ["PORT"])
@@ -31,22 +35,20 @@ def index():
 
     def llm_run(configs):
         respond_with_llm(configs)
-    envelope = request.get_json()
-    print(envelope)
-    if check_post_data_format(envelope):
-        return "Bad Request: Check Gcloud Pub/Sub message formating or message body type", 400
-
-    pubsub_message = envelope["message"]
-
-    data_configs = message_obj(pubsub_message)
-
-    if data_configs and "configs" in data_configs:
-        thread = Thread(target=llm_run, kwargs={
-                        "configs": data_configs["configs"]})
+    response = request.get_json()
+    chat_id = response["message"]["chat"]["id"]
+    query = response["message"]["text"]
+    get_loading_message = reply_loading(TELEGRAM_API_KEY, chat_id)
+    loading_response = ast.literal_eval(
+        get_loading_message.text.replace("true", "True").replace("false", "False"))
+    message_id = loading_response["result"]["message_id"]
+    config = {"chat_id": chat_id, "message_id": message_id, "query": query}
+    try:
+        thread = Thread(target=llm_run, kwargs={"configs": config})
         thread.start()
         thread.join()
-    else:
-        return ("", 400)
+    except:
+        return ("", 500)
 
     return ("", 204)
 
