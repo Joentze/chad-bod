@@ -6,7 +6,7 @@ from requests import get, Response
 
 def edit_message(API_KEY: str, message_id: str, chat_id: str, new_message: str) -> Response:
     """edits telegram message"""
-    new_message = urllib.parse.quote(new_message.replace('.', '\\.').replace('<', '\\<').replace('>', '\\>').replace(',', '\\,').replace('/', '\\/').replace(
+    new_message = urllib.parse.quote(new_message.replace('.', '\\.').replace('+', '\\+').replace('!', '\\!').replace('<', '\\<').replace('>', '\\>').replace(',', '\\,').replace('/', '\\/').replace(
         '_', '\\_').replace("[", "\\[").replace(']', '\\]').replace("-", "\\-").replace('(', '\\(').replace(')', '\\)').encode("utf-8"))
 
     return get(url=f"https://api.telegram.org/bot{API_KEY}/editMessageText?message_id={message_id}&chat_id={chat_id}&text={new_message}&parse_mode=MarkdownV2",
