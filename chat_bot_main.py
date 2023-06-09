@@ -31,7 +31,8 @@ def is_within_token_limit(message: str) -> bool:
 
 def run_llm(question: str):
     """runs open ai llm"""
-    contexts = get_context_from_supabase(question, 0.7, 5)
+    contexts = get_context_from_supabase(question, 0.8, 3)
+    print(contexts)
     llm_chain = LLMChain(prompt=get_prompt(contexts), llm=davinci)
     response = llm_chain.run(question)
     return response
@@ -50,11 +51,11 @@ def respond_with_llm(configs):
 
 if __name__ == "__main__":
     t1 = datetime.now()
-    # print(run_llm("how do i bid for a mod"))
+    print(run_llm("what are the requirements for dean's list"))
 
-    respond_with_llm({
-        "chat_id": 549991017,
-        "message_id": 73,
-        "query": "what is smu cru"
-    })
+    # respond_with_llm({
+    #     "chat_id": 549991017,
+    #     "message_id": 73,
+    #     "query": "what are the requirements for dean's list"
+    # })
     print("total time taken: ", datetime.now()-t1)

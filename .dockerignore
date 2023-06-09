@@ -1,0 +1,13 @@
+#ignore keys
+keys/
+#ignores helpers
+helpers/
+#ignores paster
+paster.py
+#ignores .vscode
+.vscode/
+#ignores data
+compiled.json
+data/
+#ignore sql
+supabase_sql/

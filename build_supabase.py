@@ -60,6 +60,24 @@ def write_embeddings_to_documents(documents: List[object]) -> None:
 
 # def segment_write_to_supabase(all_docs:List[object])->None:
 
+def add_new_user(chat_id: str, username: str) -> None:
+    """Adds new user into db"""
+    try:
+        supabase.table("users").insert({
+            "id": chat_id,
+            "username": username
+        }).execute()
+    except:
+        pass
+
+
+def remove_user(chat_id: str) -> None:
+    """Remove users from db"""
+    try:
+        supabase.table("users").delete().eq("id", chat_id).execute()
+    except:
+        pass
+
 
 def segment_content(documents: List[object], num_of_threads: int) -> List[List[object]]:
     """breaks documents into chunks"""
@@ -106,4 +124,5 @@ if __name__ == "__main__":
     #     obj = json.load(file)
     #     docs = obj["documents"]
     # segment_write_to_supabase(docs)
+    remove_user("0000")
     pass

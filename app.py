@@ -6,9 +6,10 @@ import os
 import base64
 from flask import Flask, request
 from chat_bot_main import respond_with_llm
-from telegram_helper import reply_loading
+from telegram_helper import reply_loading, send_message
 from secret_keys import TELEGRAM_API_KEY
-
+from tele_messages import STARTER_MESSAGE
+from build_supabase import add_new_user, remove_user
 
 app = Flask(__name__)
 
@@ -36,8 +37,20 @@ def index():
     def llm_run(configs):
         respond_with_llm(configs)
     response = request.get_json()
-    chat_id = response["message"]["chat"]["id"]
-    query = response["message"]["text"]
+    # print(response)
+    if "message" in response:
+        chat_id = response["message"]["chat"]["id"]
+        username = response["message"]["chat"]["username"]
+        query = response["message"]["text"]
+    else:
+        return ("Message was probably edited", 204)
+    if query == "/start":
+        send_message(TELEGRAM_API_KEY, chat_id, STARTER_MESSAGE)
+        add_new_user(chat_id=chat_id, username=username)
+        return ("", 204)
+    if query == "/stop":
+        remove_user(chat_id)
+        return ("", 204)
     get_loading_message = reply_loading(TELEGRAM_API_KEY, chat_id)
     loading_response = ast.literal_eval(
         get_loading_message.text.replace("true", "True").replace("false", "False"))
