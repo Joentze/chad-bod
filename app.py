@@ -5,7 +5,7 @@ import os
 # import json
 import base64
 from flask import Flask, request
-from chat_bot_main import respond_with_llm
+from chat_bot_main import respond_with_llm, is_within_token_limit, EXCEED_TOKEN_MESSAGE
 from telegram_helper import reply_loading, send_message
 from secret_keys import TELEGRAM_API_KEY
 from tele_messages import STARTER_MESSAGE
@@ -42,6 +42,9 @@ def index():
         chat_id = response["message"]["chat"]["id"]
         username = response["message"]["chat"]["username"]
         query = response["message"]["text"]
+        if is_within_token_limit(query) is False:
+            send_message(TELEGRAM_API_KEY, chat_id, EXCEED_TOKEN_MESSAGE)
+            return ("Exceeded token limit!", 204)
     else:
         return ("Message was probably edited", 204)
     if query == "/start":

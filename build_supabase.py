@@ -34,17 +34,6 @@ def compile_all_documents(path: str) -> None:
         json.dump(documents, file)
 
 
-# def get_embeddings(document: str) -> List[float]:
-#     """get open ai embedding"""
-#     try:
-#         embedding = get_embedding(
-#             text=document, engine="text-embedding-ada-002")
-#         return embedding
-#     except Exception as error:
-#         print(
-#             error, f"The following document cannot be embedded at this time {document}")
-
-
 def write_embeddings_to_documents(documents: List[object]) -> None:
     """writes all documents and embeddings to supabase documents table"""
 
@@ -117,6 +106,8 @@ def get_context_from_supabase(query: str, threshold: float, count: int) -> List[
         contexts.append(line)
     return "\n".join(contexts)
 
+# def add_message_to_supabase(chat_id:str, message_id:str, message:str)->None:
+
 
 if __name__ == "__main__":
     # compile_all_documents("vector_documents")
@@ -124,5 +115,4 @@ if __name__ == "__main__":
     #     obj = json.load(file)
     #     docs = obj["documents"]
     # segment_write_to_supabase(docs)
-    remove_user("0000")
     pass
