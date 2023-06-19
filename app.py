@@ -10,6 +10,7 @@ from telegram_helper import reply_loading, send_message
 from secret_keys import TELEGRAM_API_KEY
 from tele_messages import STARTER_MESSAGE
 from build_supabase import add_new_user, remove_user
+from redis_handler import sets_message_history, insert_message_history, delete_user_from_redis
 
 app = Flask(__name__)
 
@@ -50,9 +51,11 @@ def index():
     if query == "/start":
         send_message(TELEGRAM_API_KEY, chat_id, STARTER_MESSAGE)
         add_new_user(chat_id=chat_id, username=username)
+        sets_message_history(chat_id, {"messages": []})
         return ("", 204)
     if query == "/stop":
         remove_user(chat_id)
+        delete_user_from_redis(chat_id=chat_id)
         return ("", 204)
     get_loading_message = reply_loading(TELEGRAM_API_KEY, chat_id)
     loading_response = ast.literal_eval(
@@ -60,6 +63,8 @@ def index():
     message_id = loading_response["result"]["message_id"]
     config = {"chat_id": chat_id, "message_id": message_id, "query": query}
     try:
+        insert_message_history(chat_id=chat_id, message={
+                               "messages": {"role": "user", "content": query}})
         thread = Thread(target=llm_run, kwargs={"configs": config})
         thread.start()
         thread.join()
