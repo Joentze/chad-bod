@@ -1,3 +1,4 @@
+from typing import List
 from langchain import PromptTemplate
 
 BASIC_CHAT_PROMPT = """
@@ -17,3 +18,9 @@ answer:
 def get_prompt(contexts):
     return PromptTemplate(
         template=BASIC_CHAT_PROMPT.replace("{context}", contexts), input_variables=["question"])
+
+
+def insert_context_to_prompt(query: str, contexts: List[str]) -> str:
+    """generates current prompt from context"""
+    str_contexts = "\n".join(contexts)
+    return BASIC_CHAT_PROMPT.replace("{context}", str_contexts).replace("{question}", query)

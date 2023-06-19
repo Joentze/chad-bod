@@ -12,8 +12,6 @@ test_history = {
         {"role": "assistant", "content": "hello"},
         {"role": "user", "content": "hi there"},
         {"role": "assistant", "content": "im good"},
-        {"role": "user", "content": "im good too"},
-        {"role": "assistant", "content": "thanks"},
     ]
 }
 
@@ -41,6 +39,7 @@ def get_message_history(chat_id: str) -> List[object]:
 
 
 def insert_message_history(chat_id: str, message: object) -> bool:
+    """manages insertion of messages"""
     history = get_message_history(chat_id)
     if history:
         if len(history) < MAX_MESSAGE_MEMORY_SIZE:
@@ -55,7 +54,7 @@ def insert_message_history(chat_id: str, message: object) -> bool:
 
 
 if __name__ == "__main__":
-    # sets_message_history("0000", test_history)
+    sets_message_history("0000", test_history)
     insert_message_history(
         "0000", {"role": "user", "content": "what is the weather like today"})
     response = get_message_history("0000")
