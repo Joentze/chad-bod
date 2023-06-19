@@ -1,7 +1,11 @@
 """Redis handler"""
 import ast
-from redis import Redis
 from typing import List
+from pprint import pprint
+from redis import Redis
+
+
+MAX_MESSAGE_MEMORY_SIZE = 5
 
 test_history = {
     "messages": [
@@ -36,7 +40,23 @@ def get_message_history(chat_id: str) -> List[object]:
         return None
 
 
+def insert_message_history(chat_id: str, message: object) -> bool:
+    history = get_message_history(chat_id)
+    if history:
+        if len(history) < MAX_MESSAGE_MEMORY_SIZE:
+            history.append(message)
+        elif len(history) == MAX_MESSAGE_MEMORY_SIZE:
+            history.pop(0)
+            history.append(message)
+        return sets_message_history(chat_id=chat_id, message_history={
+            "messages": history})
+    return sets_message_history(chat_id=chat_id, message_history={
+        "messages": [message]})
+
+
 if __name__ == "__main__":
-    sets_message_history("0000", test_history)
+    # sets_message_history("0000", test_history)
+    insert_message_history(
+        "0000", {"role": "user", "content": "what is the weather like today"})
     response = get_message_history("0000")
-    print(response)
+    pprint(response)
