@@ -89,7 +89,7 @@ def segment_write_to_supabase(documents: List[object]) -> None:
         thread.join()
 
 
-def get_context_from_supabase(query: str, threshold: float, count: int) -> List[str]:
+def get_context_from_supabase(query: str, threshold: float, count: int) -> str:
     """get contexts from supabase"""
     contexts = []
     embedding = openai.Embedding.create(

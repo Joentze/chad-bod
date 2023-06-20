@@ -12,6 +12,7 @@ pandas = "*"
 supabase = "*"
 matplotlib = "*"
 openai = "*"
+redis = "*"
 
 [dev-packages]
 

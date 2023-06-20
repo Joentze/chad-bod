@@ -20,7 +20,6 @@ def get_prompt(contexts):
         template=BASIC_CHAT_PROMPT.replace("{context}", contexts), input_variables=["question"])
 
 
-def insert_context_to_prompt(query: str, contexts: List[str]) -> str:
+def insert_context_to_prompt(query: str, contexts: str) -> str:
     """generates current prompt from context"""
-    str_contexts = "\n".join(contexts)
-    return BASIC_CHAT_PROMPT.replace("{context}", str_contexts).replace("{question}", query)
+    return BASIC_CHAT_PROMPT.replace("{context}", contexts).replace("{question}", query)

@@ -3,7 +3,9 @@ Hello there✨ This is **Chad Bod** 💪, an SMU student assistant. I'm here to 
 
 Disclaimer ⚠️ Chad Bod may sometimes generate inaccurate information
 
-my Github repo can be found here: https://github.com/Joentze/chad-bod/tree/main
+My Github repo can be found here: https://github.com/Joentze/chad-bod/tree/main
+
+Grow my knowledge base here: https://forms.gle/sTETrFTCkGUtr6eJ7
 
 Support this project here: https://www.buymeacoffee.com/joentan
 """

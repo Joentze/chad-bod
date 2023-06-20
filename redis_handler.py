@@ -67,8 +67,10 @@ def delete_user_from_redis(chat_id: str) -> bool:
 
 
 if __name__ == "__main__":
-    response = sets_message_history("TEST", "TEST")
+    # response = sets_message_history("TEST", "TEST")
+    delete_user_from_redis("549991017")
+    sets_message_history("549991017", {"messages": []})
     # insert_message_history(
     #     "0000", {"role": "user", "content": "what is the weather like today"})
     # response = get_message_history("0000")
-    pprint(response)
+    # pprint(response)
